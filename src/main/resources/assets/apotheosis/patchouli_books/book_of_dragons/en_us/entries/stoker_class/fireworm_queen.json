@@ -1,0 +1,32 @@
+{
+    "name": "Fireworm Queen",
+    "icon": "isleofberk:monstrous_nightmare_egg{VariantName:fireworm_queen}",
+    "category": "apotheosis:dragons/stoker_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Each Fireworm colony holds only one female, the Queen! Although rare, when a new female is born, she sets out to establish her own colony.$(l)$(br2)Biomes:$()$(br)Badlands$(br)Eroded Badlands$(br)Savanna$(br2)$(l)Size$()$(br)Length: 27 Blocks $(br)Wingspan: 27 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/stoker/fireworm_queen.png"
+            ],
+            "title": "Fireworm Queen",
+            "text": "Five pairs of legs, glowing body, long twisted horns"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Foods:$()Honeycomb$(br)Firecomb Gel$(br2)$(l)Breeding Foods:$()$(br)Pufferfish$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held, no armour worn, fire resistance active; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)2 - 3 Fireworm Scale$(br)1 - 2 Firecomb Gel",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 150 HP$(br)$(l)Armour:$() 8 Def$(br)$(l)Base Attack:$() 8 HP$(br)$(l)Walking Speed:$() 9.6 Blocks/s$(br)$(l)Flying Speed: $()25 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)2 - 4 Dragon Blood$(br)4 - 7 Fireworm Scales$(br)1 - 4 Firecomb Gel",
+            "title":"Dragon Stats"
+        }
+
+
+    ]
+}

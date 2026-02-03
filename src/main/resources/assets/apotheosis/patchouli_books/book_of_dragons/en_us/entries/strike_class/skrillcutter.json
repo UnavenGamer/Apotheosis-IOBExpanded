@@ -1,0 +1,33 @@
+{
+    "name": "Skrillcutter",
+    "icon": "isleofberk:skrill_egg{VariantName:skrillcutter}",
+    "category": "apotheosis:dragons/strike_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A hybrid of the Skrill and Stormcutter.$(l)$(br2)Biomes:$()$(br)Ice Spikes$(br)Frozen Ocean$(br)Deep Frozen Ocean$(br2)$(l)Size$()$(br)Length: 10 Blocks $(br)Wingspan: 15 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/strike/skrillcutter.png"
+            ],
+            "title": "Skrillcutter",
+            "text": "Sharp metallic spines, four wings, spiked crown"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Food:$()Raw Cod$(br)Raw Salmon$(br)Tropical Fish$(br)$(o)Saltwater:$()$(br)Jellyfish$(br)Tuna$(br)Red Grouper$(br2)$(l)Breeding Food:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)Decrease dragon below 25% HP; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Skrillcutter Scales",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 100 HP$(br)$(l)Armour:$() 0 Def$(br)$(l)Base Attack:$() 6 HP$(br)$(l)Walking Speed:$() 3.2 Blocks/s$(br)$(l)Flying Speed: $()30.4 Blocks/s$(br2)$(l)Immunities:$()$(br)Blue Oleander$(br2)$(l)Death Drops:$()$(br)1 - 2 Dragon Blood$(br)3 - 5 Skrillcutter Scales",
+            "title":"Dragon Stats"
+        }
+
+
+       
+    ]   
+}

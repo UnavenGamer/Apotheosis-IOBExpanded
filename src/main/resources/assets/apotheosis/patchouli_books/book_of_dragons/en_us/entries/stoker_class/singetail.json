@@ -1,0 +1,41 @@
+{
+    "name": "Singetail",
+    "icon": "isleofberk:monstrous_nightmare_egg{VariantName:singetail}",
+    "category": "apotheosis:dragons/stoker_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "It's best not to get in a Singetail's way. These territorial Dragons can blast fire out of their jaws, gills, and tails.$(l)$(br2)Biomes:$()$(br)Desert$(br)Eroded Badlans$(br)Savanna$(br2)$(l)Size$()$(br)Length: 19 Blocks $(br)Wingspan: 21 / 25 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/stoker/singetail.png"
+            ],
+            "title": "Singetail",
+            "text": "Two sets of wings, three rows of spines down back, flat body"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Foods:$() $(br)Icetail Pike$(br)$(o)Arid:$()$(br)Bayad$(br)Boulti$(br)Capitaine$(br)Synodontis",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Breeding Foods:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held, no armour worn, fire resistance active; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)2 - 3 Singetail Scales",
+            "title":"Taming Information Cont."
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 140 HP$(br)$(l)Armour:$() 2 Def$(br)$(l)Base Attack:$() 7 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()26.8 Blocks/s$(br2)$(l)Immunities:$()$(br)Dragon Root$(br)Refined Dragon Root $(br2)$(l)Death Drops:$()$(br)1 - 3 Dragon Blood$(br)4 - 7 Singetail Scales",
+            "title":"Dragon Stats"
+        },
+        {
+            "type": "patchouli:text"
+        }
+
+
+
+    ]
+}

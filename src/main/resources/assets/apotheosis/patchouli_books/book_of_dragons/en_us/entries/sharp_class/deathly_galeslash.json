@@ -1,0 +1,40 @@
+{
+    "name": "Deathly Galselash",
+    "icon": "isleofberk:nadder_egg{VariantName:deathly_galeslash}",
+    "category": "apotheosis:dragons/sharp_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "It resembles the Deadly Nadder but the double wings from the Stormcutter is what helps it stand out from the many dragons found on the island.$(l)$(br2)Biomes:$()$(br)Ice Spikes$(br)River$(br)Frozen River$(br2)$(l)Size$()$(br)Length: 9 Blocks $(br)Wingspan: 15 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/sharp/deathly_galeslash.png"
+            ],
+            "title": "Deathly Galeslash",
+            "text": "Blue and turquoise with a light beige underbelly"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Foods:$() $(br)Raw Cod$(br)Raw Chicken$(br)$(o)Arctic Ocean:$()$(br)Atlantic Cod$(br)Blackfish$(br)Pacific Halibut$(br)Atlantic Halibut$(br)Atlantic Herring$(br)Pink Salmon$(br)Pollock$(br)Rainbow Trout",
+            "title": "Taming Information"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Breeding Foods:$() $(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Deathly Galeslash Scales$(br)0 - 1 Deathly Galeslash Spines",
+            "title": "Taming Information Cont."
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 80 HP$(br)$(l)Armour:$() 2 Def$(br)$(l)Base Attack:$() 6 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()25 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 2 Dragon Blood$(br)3 - 5 Deathly Galeslash Scales$(br)1 - 2 Deathly Galeslash Spines",
+            "title":"Dragon Stats"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

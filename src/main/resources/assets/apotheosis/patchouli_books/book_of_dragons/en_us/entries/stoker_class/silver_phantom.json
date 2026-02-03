@@ -1,0 +1,41 @@
+{
+    "name": "Silver Phantom",
+    "icon": "isleofberk:night_fury_egg{VariantName:rob_phantom}",
+    "category": "apotheosis:dragons/stoker_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You should count yourself fourtunate if you ever have the luck of spotting. She doesn't mind. She prefers her own company, and that of the friends made out of clouds that she imagines are great fans of her singing.$(l)$(br2)Biomes:$()$(br)Jagged Peaks$(br)Frozen Peaks$(br)Snowy Peaks$(br2)$(l)Size$()$(br)Length: 13 Blocks $(br)Wingspan: 17 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/stoker/silver_phantom.png"
+            ],
+            "title": "Silver Phantom",
+            "text": "Diamond-shaped wing lobes, small head, thin neck"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Food:$()$(br)Raw Cod$(br)Raw Salmon$(br)$(o)Freshwater:$()$(br)Smallmouth Bass$(br)Bluegill$(br)Brown Trout$(br)Carp$(br)Catfish$(br)Gar$(br)Minnow$(br)Muskellunge$(br)Perch$(br)$(o)Arid:$()$(br)Bayad$(br)Boulti$(br)Capitaine$(br)Synodontis",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Breeding Food:$()$(br)Honeycomb$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held, no armour worn, night vision active; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)2 - 3 Sivler Phantom Scales",
+            "title":"Taming Information Cont."
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 100 HP$(br)$(l)Armour:$() 0 Def$(br)$(l)Base Attack:$() 5 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()30.4 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 3 Dragon Blood$(br)5 - 7 Silver Phantom Scales",
+            "title":"Dragon Stats"
+        },
+        {
+            "type": "patchouli:text"
+        }
+
+
+       
+    ]   
+}

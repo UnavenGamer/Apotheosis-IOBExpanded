@@ -1,0 +1,32 @@
+{
+    "name": "Sentinel",
+    "icon": "isleofberk:monstrous_nightmare_egg{VariantName:mossy_cobble}",
+    "category": "apotheosis:dragons/boulder_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "These vast, stony Dragons show little room for weakness, but a clever mind can exploit their blindness.$(l)$(br2)Biomes:$()$(br)Lush Caves$(br)Jungles and Sparse Jungles$(br2)$(l)Size$()$(br)Length: 9 Blocks $(br)Wingspan: 14 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/boulder/sentinel.png"
+            ],
+            "title": "Sentinel",
+            "text": "Large body covered in tough rock-like epidermal layers and scutes"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Food:$()Vanaheim Fruit $(br2)$(l)Breeding Food:$() $(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held, no armour worn, fire resistance active; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)2 - 3 Sentinel Scales$(br) 0 - 1 Cobblestone",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 120 HP$(br)$(l)Armour:$() 13 Def$(br)$(l)Base Attack:$() 6 HP$(br)$(l)Walking Speed:$() 5.6 Blocks/s$(br)$(l)Flying Speed: $()17.9 Blocks/s$(br2)$(l)Immunities:$()$(br)None $(br2)$(l)Death Drops:$()$(br)1 - 2 Dragon Blood$(br)6 - 9 Sentinel Scales$(br)1 - 3 Cobblestone",
+            "title":"Dragon Stats"
+        }
+
+
+    ]
+}

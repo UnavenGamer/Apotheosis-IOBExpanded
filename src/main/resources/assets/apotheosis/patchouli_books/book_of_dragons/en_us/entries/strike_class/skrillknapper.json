@@ -1,0 +1,33 @@
+{
+    "name": "Skrillknapper",
+    "icon": "isleofberk:skrill_egg{VariantName:skrillknapper}",
+    "category": "apotheosis:dragons/strike_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A hybrid of the Skrill and Boneknapper. They have a powerful body protected by bone armor, able to create electric charges, and has high amounts of strength.$(l)$(br2)Biomes:$()$(br)Jagged and Frozen Peaks$(br)Snowy Slopes$(br)Dripstone Caves$(br2)$(l)Size$()$(br)Length: 10 Blocks $(br)Wingspan: 15 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/strike/skrillknapper.png"
+            ],
+            "title": "Skrillknapper",
+            "text": "Sharp bone spines, bone tail club, spiked crown"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Food:$()Bones$(br2)$(l)Breeding Food:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)Decrease dragon below 25% HP; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Skrillknapper Scales$(br)2 - 3 Bones",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 95 HP$(br)$(l)Armour:$() 10 Def$(br)$(l)Base Attack:$() 6 HP$(br)$(l)Walking Speed:$() 3.2 Blocks/s$(br)$(l)Flying Speed: $()28.6 Blocks/s$(br2)$(l)Immunities:$()$(br)Blue Oleander$(br2)$(l)Death Drops:$()$(br)1 - 2 Dragon Blood$(br)3 - 5 Skrillknapper Scales$(br)5 - 7 Bones",
+            "title":"Dragon Stats"
+        }
+
+
+       
+    ]   
+}

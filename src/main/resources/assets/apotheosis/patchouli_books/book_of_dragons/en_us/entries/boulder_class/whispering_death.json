@@ -1,0 +1,40 @@
+{
+    "name": "Whispering Death",
+    "icon": "isleofberk:nadder_egg{VariantName:whispering_death}",
+    "category": "apotheosis:dragons/boulder_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Very intelligent, with a long memory. If the Whispering Death's rings of teeth and rock-hard exteriordon't scare its opponents, breathing rings of fire will definitely do the trick! $(l)$(br2)Biomes:$()$(br)Lush and Dripstone Caves $(br)Jagged and Stony Peaks $(br)Windswept Gravelly Hills $(br2)$(l)Size$()$(br)Length: 14 Blocks $(br)Wingspan: 11 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/boulder/whispering_death.png"
+            ],
+            "title": "Whispering Death",
+            "text": "Grayish steel green body with red highlighted spikes"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Foods:$() $(br)Raw Cod$(br)$(o)Arctic Ocean:$()$(br)Atlantic Cod$(br)Blackfish$(br)Pacific Halibut$(br)Atlantic Halibut$(br)Atlantic Herring$(br)Pink Salmon$(br)Pollock$(br)Rainbow Trout$(br)$(o)Jungle:$()$(br)Arapaima$(br)Piranha",
+            "title": "Taming Information"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Breeding Foods:$() $(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Whispering Death Scales$(br)0 - 1 Whispering Death Spines",
+            "title": "Taming Information Cont."
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 60 HP$(br)$(l)Armour:$() 5 Def$(br)$(l)Base Attack:$() 8 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()26.8 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 2 Dragon Blood$(br)3 - 5 Whispering Death Scales$(br)1 - 2 Whispering Death Spines",
+            "title":"Dragon Stats"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

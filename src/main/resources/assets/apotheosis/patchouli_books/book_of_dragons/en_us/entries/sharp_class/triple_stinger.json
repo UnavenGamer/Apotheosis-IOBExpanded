@@ -1,0 +1,32 @@
+{
+    "name": "Triple Stinger",
+    "icon": "isleofberk:stinger_egg{VariantName:triple_stinger}",
+    "category": "apotheosis:dragons/sharp_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Double the pinch and a dozen stingers.$(l)$(br2)Biomes:$()$(br)Taiga$(br)Old Growth Taiga$(br2)$(l)Size$()$(br)Length: 11 Blocks $(br)Wingspan: 3 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/sharp/triple_stinger.png"
+            ],
+            "title": "Triple Stinger",
+            "text": "Multitude of stingers on tail, spiked frill and head crest, spikes along ridges of back"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Foods:$()$(br)Raw Mutton$(br)Raw Beef$(br)$(l)Breeding Foods:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Stinger Scales",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 210 HP$(br)$(l)Armour:$() 2 Def$(br)$(l)Base Attack:$() 10 HP$(br)$(l)Walking Speed:$() 8.8 Blocks/s$(br)$(l)Flying Speed: $()N/A$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 2 Dragon Blood$(br)3 - 5 Stinger Scales",
+            "title":"Dragon Stats"
+        }
+
+
+    ]
+}

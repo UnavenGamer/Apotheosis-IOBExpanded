@@ -1,0 +1,6 @@
+{
+    "name": "Mystery Class",
+    "parent":"apotheosis:dragons",
+    "description": "Little is known about this Class of dragons, due to their stealthy and sneaky nature. Dragons in this class are generally more feared than those in other classes.",
+    "icon": "isleofberk:zippleback_spawn_egg"
+}

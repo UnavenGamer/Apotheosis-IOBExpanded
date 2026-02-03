@@ -1,0 +1,33 @@
+{
+    "name": "Ancient Grovewing",
+    "icon": "isleofberk:monstrous_nightmare_egg{VariantName:deepslate}",
+    "category": "apotheosis:dragons/mystery_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A dragon created of runes, now found in ancient temples.$(l)$(br2)Spawns:$()$(br)Grovewing Temple $(br2)$(l)Size$()$(br)Length: 14 Blocks $(br)Wingspan: 13 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/mystery/grovewing.png"
+            ],
+            "title": "Ancient Grovewing",
+            "text": "Blue and Black with Gray Wings"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Food:$()$(br)Raw Pork$(br)Raw Mutton$(br2)$(l)Breeding Food:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held, no armour worn, fire resistance active; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)2 - 3 Ancient Grovewing Scales",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 120 HP$(br)$(l)Armour:$() 4 Def$(br)$(l)Base Attack:$() 7 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()25 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)6 - 12 Dragon Blood$(br)4 - 7 Ancient Grovewing Scales",
+            "title":"Dragon Stats"
+        }
+
+
+       
+    ]   
+}

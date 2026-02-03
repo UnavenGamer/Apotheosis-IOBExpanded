@@ -1,0 +1,33 @@
+{
+    "name": "Wooly Howl",
+    "icon": "isleofberk:night_fury_egg{VariantName:wooly_howl}",
+    "category": "apotheosis:dragons/strike_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This dragon has notoriously poor eyesight and uses thermal sensors to locate its prey. It camouflages itself in the snow because if it can't see you, it doesn't want you to see it.$(l)$(br2)Biomes:$()$(br)Snowy Slopes$(br)Frozen Peaks$(br)Snowy Taiga$(br2)$(l)Size$()$(br)Length: 10 Blocks $(br)Wingspan: 14 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/strike/wooly_howl.png"
+            ],
+            "title": "Wooly Howl",
+            "text": "Ledge under chin, spikes on tail, tusks"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Food:$()Raw Mutton$(br2)$(l)Breeding Food:$()$(br)Honeycomb$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held, no armour worn, night vision active; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Wooly Howl Scales$(br)0 - 1 Wooly Howl Tooth",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 90 HP$(br)$(l)Armour:$() 5 Def$(br)$(l)Base Attack:$() 4 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()32.1 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 3 Dragon Blood$(br)3 - 5 Wooly Howl Scales$(br)1 - 2 Wooly Howl Tooth",
+            "title":"Dragon Stats"
+        }
+
+
+       
+    ]   
+}

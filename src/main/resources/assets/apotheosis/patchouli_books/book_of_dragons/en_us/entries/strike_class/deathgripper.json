@@ -1,0 +1,33 @@
+{
+    "name": "Deathgripper",
+    "icon": "isleofberk:triple_stryke_egg{VariantName:deathgripper}",
+    "category": "apotheosis:dragons/strike_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Venomous, violent, and vile dragons. Perhaps a real Berkian trainer can bring out their softer side... but for now, avoid at all costs.$(l)$(br2)Biomes:$()$(br)Swamp$(br)Sparse Jungle$(br)Bamboo Jungle$(br2)$(l)Size$()$(br)Length: 11 Blocks $(br)Wingspan: 10 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/strike/deathgripper.png"
+            ],
+            "title": "Deathgripper",
+            "text": "Plate armor along the back, jagged pincers, venomous stinger"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Food:$()$(br)Dragon Blood$(br)Dragon Blood Marinated Feed$(br2)$(l)Breeding Food:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)Decrease dragon below 25% HP; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Deathgripper Scales",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 70 HP$(br)$(l)Armour:$() 2 Def$(br)$(l)Base Attack:$() 5 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()30.4 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 2 Dragon Blood$(br)3 - 5 Deathgripper Scales$(br)1 Venom Glands ",
+            "title":"Dragon Stats"
+        }
+
+
+
+    ]
+}

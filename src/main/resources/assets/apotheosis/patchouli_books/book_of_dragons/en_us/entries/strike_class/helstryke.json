@@ -1,0 +1,41 @@
+{
+    "name": "Helstryke",
+    "icon": "isleofberk:triple_stryke_egg{VariantName:helstryke}",
+    "category": "apotheosis:dragons/strike_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "With the firepower of a Singetail and the pinpoint accuracy of a Triple Stryke, the Ferocious Helstryke is a fearsome force to behold in battle.$(l)$(br2)Biomes:$()$(br)Swamp$(br)Sparse Jungle$(br)Bamboo Jungle$(br2)$(l)Size$()$(br)Length: 10 Blocks $(br)Wingspan: 13 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/strike/helstryke.png"
+            ],
+            "title": "Helstryke",
+            "text": "Four wings, pincers, barbed tail"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Foods:$() $(br)Icetail Pike$(br)$(o)Arid:$()$(br)Bayad$(br)Boulti$(br)Capitaine$(br)Synodontis",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Breeding Food:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)Decrease dragon below 25% HP; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Helstryke Scales",
+            "title":"Taming Information Cont."
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 120 HP$(br)$(l)Armour:$() 1 Def$(br)$(l)Base Attack:$() 6 HP$(br)$(l)Walking Speed:$() 3.2 Blocks/s$(br)$(l)Flying Speed: $()37.5 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 2 Dragon Blood$(br)3 - 5 Helstryke Scales$(br)1 Venom Glands ",
+            "title":"Dragon Stats"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+
+    ]
+}

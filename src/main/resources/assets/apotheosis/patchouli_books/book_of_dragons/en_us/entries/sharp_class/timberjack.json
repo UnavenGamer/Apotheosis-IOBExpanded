@@ -1,0 +1,40 @@
+{
+    "name": "Timberjack",
+    "icon": "isleofberk:monstrous_nightmare_egg{VariantName:timberjack}",
+    "category": "apotheosis:dragons/sharp_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Skittish and protective, this graceful glider from the Sharp Class can slice through huge trees with its broad, ultra-sharp wings.$(l)$(br2)Biomes:$()$(br)Frozen Peaks$(br)Jagged Peaks$(br)Snowy Slopes$(br2)$(l)Size$()$(br)Length: 28 Blocks $(br)Wingspan: 38 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/sharp/timberjack.png"
+            ],
+            "title": "Timberjack",
+            "text": "Huge razor-sharp wings, no legs, long and twisted horns"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Foods:$()$(br)Raw Cod$(br)Raw Salmon$(br)$(o)Arctic Ocean:$()$(br)Atlantic Cod$(br)Blackfish$(br)Pacific Halibut$(br)Atlantic Halibut$(br)Atlantic Herring$(br)Pink Salmon$(br)Pollock$(br)Rainbow Trout",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Breeding Foods:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held, no armour worn, fire resistance active; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)2 - 3 Timberjack Scales$(br)1 - 2 Timberjack Oil",
+            "title":"Taming Information Cont."
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 100 HP$(br)$(l)Armour:$() 4 Def$(br)$(l)Base Attack:$() 10 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()26.8 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)2 - 4 Dragon Blood$(br)4 - 7 Timbejack Scales$(br)1 - 3 Timberjack Oil",
+            "title":"Dragon Stats"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

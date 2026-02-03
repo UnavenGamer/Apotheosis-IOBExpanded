@@ -1,0 +1,34 @@
+{
+    "name": "Crimson Goregutter",
+    "icon": "isleofberk:gronckle_egg{VariantName:Crimson_Goregutter}",
+    "category": "apotheosis:dragons/boulder_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "They are massive in size and carry an unbelievable amount of strength, helping them destroy anything in its path when feeling opposed. $(l)$(br2)Biomes:$()$(br)Savanna$(br)Savanna Plateau$(br)Windswept Savanna $(br2)$(l)Size$()$(br)Length: 19 Blocks $(br)Wingspan: 35 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/boulder/crimson_goregutter.png"
+            ],
+            "title": "Crimson Goregutter",
+
+            "text": "Crimson with purple details and light underside"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Food:$() $(br)Feed Bundle $(br2)$(l)Breeding Food:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)3 - 5 Crimson Goregutter Scales",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 200 HP$(br)$(l)Armour:$() 10 Def$(br)$(l)Base Attack:$() 12 HP$(br)$(l)Walking Speed:$() 8 Blocks/s$(br)$(l)Flying Speed: $()25 Blocks/s$(br2)$(l)Immunities:$()$(br)Dragon Root$(br)Refined Dragon Root$(br2)$(l)Death Drops:$()$(br)6 - 12 Dragon Blood$(br)6 - 12 Crimson Goregutter Scales",
+            "title":"Dragon Stats"
+        }
+
+
+       
+    ]   
+}

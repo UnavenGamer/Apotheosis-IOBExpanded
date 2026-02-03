@@ -1,0 +1,32 @@
+{
+    "name": "Gronckle",
+    "icon": "isleofberk:gronckle_egg",
+    "category": "apotheosis:dragons/boulder_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This Boulder Class Dragon is not built for speed, but it can fly like a hummingbird. $(l)$(br2)Biomes:$()$(br)Meadow and Plains $(br)Savanna and Plateau $(br)Stoney Shores and Peaks$(br2)$(l)Size$()$(br)Length: 5 Blocks $(br)Wingspan: 6 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/boulder/gronckle.png"
+            ],
+            "title": "Gronckle",
+            "text": "Small wing to body ratio, with clubbed tail and bumpy skin"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Food:$() $(br)Raw Beef $(br2)$(l)Breeding Food:$() $(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Gronckle Scales",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 60 HP$(br)$(l)Armour:$() 10 Def$(br)$(l)Base Attack:$() 6 HP$(br)$(l)Walking Speed:$() 5.9 Blocks/s$(br)$(l)Flying Speed: $()14.3 Blocks/s$(br2)$(l)Immunities:$()$(br)Dragon Root$(br)Refined Dragon Root $(br2)$(l)Death Drops:$()$(br)1 - 2 Dragon Blood$(br)3 - 5 Gronckle Scales",
+            "title":"Dragon Stats"
+        }
+
+
+    ]
+}

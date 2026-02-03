@@ -1,0 +1,32 @@
+{
+    "name": "Butterflywing",
+    "icon": "isleofberk:terrible_terror_egg{VariantName:butterflywing}",
+    "category": "apotheosis:dragons/tracker_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Named for its vibrant, oversized wings patterned like a butterfly's, this dragon is often mistaken for a drifting patch of wildflowers.$(l)$(br2)Biomes:$()$(br)Meadow$(br)Flower Forest$(br)Sunflower Plains$(br2)$(l)Size$()$(br)Length: 1 Blocks $(br)Wingspan: 2 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/tracker/butterflywing.png"
+            ],
+            "title": "Butterflywing",
+            "text": "Curled tail, butterfly-like wings, frilled neck"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Foods:$()$(br)Any Flowers$(br2)$(l)Breeding Foods:$()$(br)Pufferfish$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 2 Butterflywing Scales",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 40 HP$(br)$(l)Armour:$() 0 Def$(br)$(l)Base Attack:$() 4 HP$(br)$(l)Walking Speed:$() 4.8 Blocks/s$(br)$(l)Flying Speed: $()10.7 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 Dragon Blood$(br)1 - 3 Butterflywing Scales",
+            "title":"Dragon Stats"
+        }
+
+
+    ]
+}

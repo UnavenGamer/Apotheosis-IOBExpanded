@@ -1,0 +1,32 @@
+{
+    "name": "Screaming Death",
+    "icon": "isleofberk:nadder_egg{VariantName:screaming_death}",
+    "category": "apotheosis:dragons/boulder_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "1/100 chance of spawning, the Screaming Death has all the strengths of its subordinate cousin, the Whispering Death, with none of its weaknesses.$(l)$(br2)Biomes:$()$(br)Whispering Death Nest Structures (Agressive)$(br)Whispering Death Nest Blocks $(br2)$(l)Size$()$(br)Length: 31 Blocks $(br)Wingspan: 21 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/boulder/screaming_death.png"
+            ],
+            "title": "Screaming Death",
+            "text": "Long, white snake-like body with red eyes and spines"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Food:$() $(br)Large Feed Bundle $(br2)$(l)Breeding Food:$() $(br)Unbreedable$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)3 - 5 Screaming Death Scales$(br) 0 - 1 Screaming Death Spines",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 500 HP$(br)$(l)Armour:$() 10 Def$(br)$(l)Base Attack:$() 23 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()25 Blocks/s$(br2)$(l)Immunities:$()$(br)None $(br2)$(l)Death Drops:$()$(br)10 - 20 Dragon Blood$(br)7 - 15 Screaming Death Scales$(br)1 - 2 Screaming Death Spines",
+            "title":"Dragon Stats"
+        }
+
+
+    ]
+}

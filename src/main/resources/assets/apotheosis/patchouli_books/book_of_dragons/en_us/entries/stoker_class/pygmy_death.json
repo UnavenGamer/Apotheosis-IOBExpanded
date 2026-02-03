@@ -1,0 +1,33 @@
+{
+    "name": "Pygmy Death",
+    "icon": "isleofberk:monstrous_nightmare_egg{VariantName:pygmy_death}",
+    "category": "apotheosis:dragons/stoker_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Smaller, and far friendlier version of the various $(o)death family$() dragons.$(l)$(br2)Spawns:$()$(br)Pygmy Death Lair$(br2)$(l)Size$()$(br)Length: 19 Blocks $(br)Wingspan: 23 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/stoker/pygmy_death.png"
+            ],
+            "title": "Pygmy Death",
+            "text": "Clubbed Tail, three pairs of eyes, bumps across body"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Taming Food:$()Feed Bundle$(br)Blood Marinated Feed Bundle$(br2)$(l)Breeding Foods:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held, no armour worn, fire resistance active; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)3 - 5 Pygmy Death Scales",
+            "title":"Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 300 HP$(br)$(l)Armour:$() 10 Def$(br)$(l)Base Attack:$() 14 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()25 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)7 - 15 Dragon Blood$(br)7 - 15 Pygmy Death Scales",
+            "title":"Dragon Stats"
+        }
+
+
+
+    ]
+}

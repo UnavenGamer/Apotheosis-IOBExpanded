@@ -1,0 +1,59 @@
+{
+    "name": "Speed Stryke",
+    "icon": "isleofberk:triple_stryke_egg{VariantName:speed_stryke_alpha}",
+    "category": "apotheosis:dragons/sharp_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A hybrid between the Speed Stinger and the Triple Stryke, leaning more toward the Triple Stryke.$(l)$(br2)Biomes:$()$(br)TBD$(br2)$(l)Size$()$(br)Length: 11 Blocks $(br)Wingspan: 9 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/sharp/speed_stryke_alpha.png"
+            ],
+            "title": "Speed Stryke Alpha",
+            "text": "Three separate Stryke-style tails, short arms, sail on head"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Food:$()$(br)Raw Beef$(br)Raw Rabbit$(br2)$(l)Breeding Food:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)Decrease dragon below 25% HP$(br2)$(l)Brush Drops:$()$(br)1 - 3 Speed Stryke Scales",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 55 HP$(br)$(l)Armour:$() 2 Def$(br)$(l)Base Attack:$() 5 HP$(br)$(l)Walking Speed:$() 9.6 Blocks/s$(br)$(l)Flying Speed: $()30.4 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 2 Dragon Blood$(br)3 - 5 Speed Stryke Scales$(br)1 - 3 Venom Glands ",
+            "title":"Dragon Stats"
+        },
+        
+
+
+        {
+            "type": "patchouli:text",
+            "text": "A hybrid between the Speed Stinger and the Triple Stryke, leaning more towards the Speed Stinger.$(l)$(br2)Biomes:$()$(br)TBD$(br2)$(l)Size$()$(br)Length: 4 Blocks $(br)Wingspan: 1 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/sharp/speed_stryke.png"
+            ],
+            "title": "Speed Stryke",
+            "text": "Three small separate Stynger-style tails, tiny arms, fin on head"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Food:$()$(br)Raw Beef$(br)Raw Rabbit$(br2)$(l)Breeding Food:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)Must be a baby$(br2)$(l)Brush Drops:$()$(br)1 - 2 Speed Stryke Scales",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 40 HP$(br)$(l)Armour:$() 0 Def$(br)$(l)Base Attack:$() 4 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()N/A$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 Dragon Blood$(br)1 - 3 Speed Stryke Scales$(br)1 Venom Glands ",
+            "title":"Dragon Stats"
+        }
+
+
+       
+    ]   
+}

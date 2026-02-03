@@ -1,0 +1,40 @@
+{
+    "name": "Gullet Gulper",
+    "icon": "isleofberk:nadder_egg{VariantName:gullet_gulper}",
+    "category": "apotheosis:dragons/tidal_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "An odd creature found near any shores with the attitude of a pelican who knows it can swallow you whole.$(l)$(br2)Biomes:$()$(br)Beaches$(br)Stony Shores$(br2)$(l)Size$()$(br)Length: 9 Blocks $(br)Wingspan: 15 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/tidal/gullet_gulper.png"
+            ],
+            "title": "Gullet Gulper",
+            "text": "Wing Hooks, pelican-like gullet, tail spikes"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Foods:$() $(br)Raw Cod$(br)Raw Salmon$(br)$(o)Arctic Ocean:$()$(br)Atlantic Cod$(br)Blackfish$(br)Pacific Halibut$(br)Atlantic Halibut$(br)Atlantic Herring$(br)Pink Salmon$(br)Pollock$(br)Rainbow Trout",
+            "title": "Taming Information"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Breeding Foods:$() $(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Deadly Nadder Scales$(br)0 - 1 Deadly Nadder Spines",
+            "title": "Taming Information Cont."
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 75 HP$(br)$(l)Armour:$() 2 Def$(br)$(l)Base Attack:$() 8 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()25 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 2 Dragon Blood$(br)3 - 5 Deadly Nadder Scales$(br)1 - 2 Deadly Nadder Spines",
+            "title":"Dragon Stats"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

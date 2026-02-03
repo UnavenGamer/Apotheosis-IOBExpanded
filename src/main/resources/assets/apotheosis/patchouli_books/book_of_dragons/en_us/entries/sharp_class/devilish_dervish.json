@@ -1,0 +1,32 @@
+{
+    "name": "Devilish Dervish",
+    "icon": "isleofberk:monstrous_nightmare_egg{VariantName:devilish_dervish}",
+    "category": "apotheosis:dragons/sharp_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This dragon flies through the forest at breakneck speed, lopping down the tallest pines with his razor-sharp tail.$(l)$(br2)Biomes:$()$(br)Savanna Plataeu$(br)Windswept Savanna$(br)Savanna$(br2)$(l)Size$()$(br)Length: 13 Blocks $(br)Wingspan: 17 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/sharp/devilish_dervish.png"
+            ],
+            "title": "Devilish Dervish",
+            "text": "Short forearms, horns, barbells"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Foods:$()$(br)Raw Pork$(br)Raw Mutton$(br)$(l)Breeding Foods:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held, no armour worn, fire resistance active; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Devilish Dervish Scales",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 100 HP$(br)$(l)Armour:$() 4 Def$(br)$(l)Base Attack:$() 8 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()25 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 2 Dragon Blood$(br)3 - 5 Devilish Dervish Scales",
+            "title":"Dragon Stats"
+        }
+
+
+    ]
+}

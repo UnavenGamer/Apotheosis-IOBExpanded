@@ -1,0 +1,32 @@
+{
+    "name": "Night Terror",
+    "icon": "isleofberk:terrible_terror_egg{VariantName:night_terror}",
+    "category": "apotheosis:dragons/stoker_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "These elusive Stoker Class Dragons can be a handful! But if properly trained, they remain loyal and excellent guard dragons.$(l)$(br2)Biomes:$()$(br)Dark Forest$(br)Forest$(br)Old Growth Pine Taiga$(br2)$(l)Size$()$(br)Length: 3 Blocks $(br)Wingspan: 3 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/stoker/night_terror.png"
+            ],
+            "title": "Night Terror",
+            "text": "Double nasal horn, horn under chin, short fattish tail"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Foods:$()$(br)All fish, excluding Pufferfish$(br2)$(l)Breeding Foods:$()$(br)Pufferfish$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 2 Night Terror Scales",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 25 HP$(br)$(l)Armour:$() 0 Def$(br)$(l)Base Attack:$() 3 HP$(br)$(l)Walking Speed:$() 4.8 Blocks/s$(br)$(l)Flying Speed: $()7.1  Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 Dragon Blood$(br)1 - 3 Night Terror Scales",
+            "title":"Dragon Stats"
+        }
+
+
+    ]
+}

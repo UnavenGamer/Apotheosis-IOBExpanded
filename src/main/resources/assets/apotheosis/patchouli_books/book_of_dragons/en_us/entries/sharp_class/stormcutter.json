@@ -1,0 +1,40 @@
+{
+    "name": "Stormcutter",
+    "icon": "isleofberk:monstrous_nightmare_egg{VariantName:stormcutter}",
+    "category": "apotheosis:dragons/sharp_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This dragon may be a gargantuan but don't let the sheer size of its body distract you from the dragon's speed.$(l)$(br2)Biomes:$()$(br)Frozen and Deep Frozen Ocean$(br)Ice Spikes$(br)Frozen River$(br2)$(l)Size$()$(br)Length: 16 Blocks $(br)Wingspan: 18 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/sharp/stormcutter.png"
+            ],
+            "title": "Stormcutter",
+            "text": "Quadruple fins, dart-like tail fins, head frill"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Foods:$()$(br)Raw Cod$(br)$(o)Arctic Ocean:$()$(br)Atlantic Cod$(br)Blackfish$(br)Pacific Halibut$(br)Atlantic Halibut$(br)Atlantic Herring$(br)Pink Salmon$(br)Pollock$(br)Rainbow Trout",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Breeding Foods:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held, no armour worn, fire resistance active; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)2 - 3 Stormcutter Scales",
+            "title":"Taming Information Cont."
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 150 HP$(br)$(l)Armour:$() 0 Def$(br)$(l)Base Attack:$() 8 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()28.6 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 3 Dragon Blood$(br)4 - 7 Stormcutter Scales",
+            "title":"Dragon Stats"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

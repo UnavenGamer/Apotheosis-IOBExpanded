@@ -1,0 +1,33 @@
+{
+    "name": "Monstrous Nightmare",
+    "icon": "isleofberk:monstrous_nightmare_egg",
+    "category": "apotheosis:dragons/stoker_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "No dragon is more ferocious, or feared than the Monstrous Nightmare. This gigantic dragon has a long, snake-like neck and tail, and is covered in scales - most often red - and long sharp spines.$(l)$(br2)Biomes:$()$(br)Stony Peaks$(br)Windswept Hills$(br)Windswept Gravelly Hills$(br2)$(l)Size$()$(br)Length: 19 Blocks $(br)Wingspan: 21 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/stoker/monstrous_nightmare.png"
+            ],
+            "title": "Monstrous Nightmare",
+            "text": "Double-clawed wings, two pairs of long horns, sharp spines"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Taming Food:$()$(br)Raw Mutton$(br)Raw Pork$(br2)$(l)Breeding Foods:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held, no armour worn, fire resistance active; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)2 - 3 Monstrous Nightmare Scales$(br)1 - 2 Monstrous Nightmare Oil",
+            "title":"Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 120 HP$(br)$(l)Armour:$() 4 Def$(br)$(l)Base Attack:$() 7 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()25 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 3 Dragon Blood$(br)4 - 7 Monstrous Nightmare Scales$(br)1 - 3 Monstrous Nightmare Oil",
+            "title":"Dragon Stats"
+        }
+
+
+
+    ]
+}

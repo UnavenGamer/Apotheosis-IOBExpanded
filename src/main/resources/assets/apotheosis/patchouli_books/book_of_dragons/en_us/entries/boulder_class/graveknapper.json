@@ -1,0 +1,32 @@
+{
+    "name": "Graveknapper",
+    "icon": "isleofberk:nadder_egg{VariantName:Boneknapper}",
+    "category": "apotheosis:dragons/boulder_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A hybrid between the Boneknapper and the Screaming Death. $(l)$(br2)Biomes:$()$(br)Whispering Death Nest Structures (Agressive)$(br)Whispering Death Nest Blocks $(br2)$(l)Size$()$(br)Length: 25 Blocks $(br)Wingspan: 19 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/boulder/graveknapper.png"
+            ],
+            "title": "Graveknapper",
+            "text": "Screaming Death with Boney Armour"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Food:$() $(br)Bone Feed Bundle $(br2)$(l)Breeding Food:$() $(br)Unbreedable$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)3 - 5 Graveknapper Scales$(br) 0 - 1 Graveknapper Spines",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 300 HP$(br)$(l)Armour:$() 20 Def$(br)$(l)Base Attack:$() 18 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()25 Blocks/s$(br2)$(l)Immunities:$()$(br)None $(br2)$(l)Death Drops:$()$(br)10 - 20 Dragon Blood$(br)7 - 15 Graveknapper Scales$(br)1 - 2 Graveknapper Spines",
+            "title":"Dragon Stats"
+        }
+
+
+    ]
+}

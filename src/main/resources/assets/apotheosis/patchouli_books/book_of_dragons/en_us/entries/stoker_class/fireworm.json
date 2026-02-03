@@ -1,0 +1,32 @@
+{
+    "name": "Fireworm",
+    "icon": "isleofberk:terrible_terror_egg{VariantName:fireworm}",
+    "category": "apotheosis:dragons/stoker_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Common Fireworms are only about a few inches in length, the majority of them being male hive drones.$(l)$(br2)Biomes:$()$(br)Badlands$(br)Eroded Badlands$(br)Savanna$(br2)$(l)Size$()$(br)Length: 1 Blocks $(br)Wingspan: 1 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/stoker/fireworm.png"
+            ],
+            "title": "Fireworm",
+            "text": "Five pairs of legs, glowing body"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Foods:$()Honeycomb$(br)Firecomb Gel$(br2)$(l)Breeding Foods:$()$(br)Pufferfish$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 Fireworm Scale$(br)0 - 1 Firecomb Gel",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 10 HP$(br)$(l)Armour:$() 0 Def$(br)$(l)Base Attack:$() 2 HP$(br)$(l)Walking Speed:$() 4.8 Blocks/s$(br)$(l)Flying Speed: $()5.4 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)0 - 1 Dragon Blood$(br)2 Fireworm Scales$(br)1 - 2 Firecomb Gel",
+            "title":"Dragon Stats"
+        }
+
+
+    ]
+}

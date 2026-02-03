@@ -1,0 +1,32 @@
+{
+    "name": "Wolf-Fang",
+    "icon": "isleofberk:speed_stinger_egg{VariantName:cyan_wolf_fang}",
+    "category": "apotheosis:dragons/tracker_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Wolf-fangs are described as being monkey-like in that they jump and climb from tree to tree, yet they are also wolf-like.$(l)$(br2)Spawns:$()$(br)Wolf-Fang nest$(br2)$(l)Size$()$(br)Length: 4 Blocks $(br)Wingspan: 1 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/tracker/wolf_fang.png"
+            ],
+            "title": "Wolf-Fang",
+            "text": "Wolf-like body, quadrupedal, small pair of wings on back"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Foods:$()$(br)N/A$(br2)$(l)Breeding Foods:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)Not tameable$(br2)$(l)Brush Drops:$()$(br)1 - 2 Wolf Fang Scales",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 55 HP$(br)$(l)Armour:$() 2 Def$(br)$(l)Base Attack:$() 3 HP$(br)$(l)Walking Speed:$() 4.8 Blocks/s$(br)$(l)Flying Speed: $()N/A$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 Dragon Blood$(br)2 - 3 Wolf Fang Scales",
+            "title":"Dragon Stats"
+        }
+
+
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Terrible Terror",
+    "icon": "isleofberk:terrible_terror_egg",
+    "category": "apotheosis:dragons/stoker_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Although Terrible Terrors are one of the smallest known dragons, don't let their tiny stature fool you. These pesky creatures cause all sorts of problems, roaming in groups of five to upwards of ten, like pigeons.$(l)$(br2)Biomes:$()$(br)Birch and Flower Forest$(br)Forest and Beach$(br)Meadow and Plains $(br)Sunflower Plains$(br2)$(l)Size$()$(br)Length: 3 Blocks $(br)Wingspan: 3 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/stoker/terrible_terror.png"
+            ],
+            "title": "Terrible Terror",
+            "text": "Arrow shaped tail tip, small spines, small horns"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Foods:$()$(br)All fish, excluding Pufferfish$(br2)$(l)Breeding Foods:$()$(br)Pufferfish$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 2 Terrible Terror Scales",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 20 HP$(br)$(l)Armour:$() 0 Def$(br)$(l)Base Attack:$() 2 HP$(br)$(l)Walking Speed:$() 4.8 Blocks/s$(br)$(l)Flying Speed: $()7.1  Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 Dragon Blood$(br)1 - 3 Terrible Terror Scales",
+            "title":"Dragon Stats"
+        }
+
+
+    ]
+}

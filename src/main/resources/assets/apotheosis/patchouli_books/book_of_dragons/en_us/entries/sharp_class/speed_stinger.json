@@ -1,0 +1,32 @@
+{
+    "name": "Speed Stinger",
+    "icon": "isleofberk:speed_stinger_egg",
+    "category": "apotheosis:dragons/sharp_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Though they can't fly, Speed Stingers are the fastest Dragons on land or water.$(l)$(br2)Spawns:$()$(br)Speed Stinger Nests$(br2)$(l)Size$()$(br)Length: 4 Blocks $(br)Wingspan: 1 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/sharp/speed_stinger.png"
+            ],
+            "title": "Speed Stinger",
+            "text": "Razor-sharp stinger, red stripes (Lead Stinger), sail fin on head, small pair of wings on back"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Foods:$()$(br)Raw Rabbit$(br)Raw Chicken$(br)Raw Salmon$(br2)$(l)Breeding Foods:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)Must be a baby$(br2)$(l)Brush Drops:$()$(br)1 - 2 Speed Stinger Scales",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 40 HP$(br)$(l)Armour:$() 0 Def$(br)$(l)Base Attack:$() 4 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()N/A$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 Dragon Blood$(br)2 - 3 Speed Stinger Scales$(br)1 Venom Gland",
+            "title":"Dragon Stats"
+        }
+
+
+    ]
+}

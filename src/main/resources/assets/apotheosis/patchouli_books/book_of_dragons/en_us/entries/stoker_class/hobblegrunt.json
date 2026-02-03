@@ -1,0 +1,41 @@
+{
+    "name": "Hobblegrunt",
+    "icon": "isleofberk:monstrous_nightmare_egg{VariantName:hobblegrunt}",
+    "category": "apotheosis:dragons/stoker_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "More sensitive than most other Stoker Class Dragons, it changes color depending on its mood.$(l)$(br2)Biomes:$()$(br)Jungle$(br)Sparse Jungle$(br)Bamboo Jungle$(br2)$(l)Size$()$(br)Length: 11 Blocks $(br)Wingspan: 13 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/stoker/hobblegrunt.png"
+            ],
+            "title": "Hobblegrunt",
+            "text": "Large head frill, underbite, tail fin"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Food:$()$(br)Raw Cod$(br)$(o)Jungle:$()$(br)Arapaima$(br)Piranha$(br)Tambaqui",
+            "title": "Taming Information"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Breeding Food:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held, no armour worn, fire resistance active; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Hobblegrunt Scales",
+            "title": "Taming Information Cont."
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 60 HP$(br)$(l)Armour:$() 4 Def$(br)$(l)Base Attack:$() 4 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()26.8 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 2 Dragon Blood$(br)3 - 5 Hobblegrunt Scales",
+            "title":"Dragon Stats"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+
+    ]
+}

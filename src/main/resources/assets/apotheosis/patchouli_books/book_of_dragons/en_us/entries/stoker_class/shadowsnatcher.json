@@ -1,0 +1,41 @@
+{
+    "name": "ShadowSnatcher",
+    "icon": "isleofberk:night_fury_egg{VariantName:graveyard}",
+    "category": "apotheosis:dragons/stoker_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A strange silverphantom-like dragon, when first born, their future skeletal armor is more of a cartilage that slowly hardens as they grow.$(l)$(br2)Biomes:$()$(br)Ice Spikes$(br)Stony Shores$(br)Swamp$(br2)$(l)Size$()$(br)Length: 11 Blocks $(br)Wingspan: 17 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/stoker/shadowsnatcher.png"
+            ],
+            "title": "ShadowSnatcher",
+            "text": "Silver Phantom-like body, crown horns, flaming appearance"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Food:$()$(br)Raw Cod$(br)Raw Salmon$(br)$(o)Freshwater:$()$(br)Smallmouth Bass$(br)Bluegill$(br)Brown Trout$(br)Carp$(br)Catfish$(br)Gar$(br)Minnow$(br)Muskellunge$(br)Perch$(br)$(o)Arid:$()$(br)Bayad$(br)Boulti$(br)Capitaine$(br)Synodontis",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Breeding Food:$()$(br)Honeycomb$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held, no armour worn, night vision active; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)2 - 3 ShadowSnatcher Scales",
+            "title":"Taming Information Cont."
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 80 HP$(br)$(l)Armour:$() 2 Def$(br)$(l)Base Attack:$() 4 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()35.7 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 3 Dragon Blood$(br)5 - 7 ShadowSnatcher Scales",
+            "title":"Dragon Stats"
+        },
+        {
+            "type": "patchouli:text"
+        }
+
+
+
+    ]
+}
