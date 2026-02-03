@@ -1,0 +1,40 @@
+{
+    "name": "Purple Death",
+    "icon": "isleofberk:gronckle_egg{VariantName:purple_death}",
+    "category": "apotheosis:dragons/tidal_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This dragon is massive in size, not unlike that of the Red Death. It's so big that it has been known to cause seaquakes. This led Vikings to believe this was the Serpent of Midgard from legend, heralded to bring Ragnarok, i.e. the end of the world.$(l)$(br2)Spawns:$()$(br)Purple Death Nests$(br2)$(l)Size$()$(br)Length: 80 Blocks $(br)Wingspan: N/A Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/tidal/purple_death.png"
+            ],
+            "title": "Purple Death",
+            "text": "Large tail fin, two legs, serpent-like body"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Food:$()$(br)Raw Cod$(br)Raw Pork$(br)Raw Beef$(br)$(o)Arctic Ocean:$()$(br)Atlantic Cod$(br)Blackfish$(br)Pacific Halibut$(br)Atlantic Halibut$(br)Atlantic Herring$(br)Pink Salmon$(br)Pollock$(br)Rainbow Trout",
+            "title": "Taming Information"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Breeding Food:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Gronckle Scales",
+            "title": "Taming Information Cont."
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 710 HP$(br)$(l)Armour:$() 3 Def$(br)$(l)Base Attack:$() 10 HP$(br)$(l)Walking Speed:$() 7.6 Blocks/s$(br)$(l)Flying Speed: $()5.4 Blocks/s$(br2)$(l)Immunities:$()$(br)None $(br2)$(l)Death Drops:$()$(br)1 - 2 Dragon Blood$(br)3 - 5 Gronckle Scales",
+            "title":"Dragon Stats"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Netherwing",
+    "icon": "isleofberk:night_fury_egg{VariantName:netherwing}",
+    "category": "apotheosis:dragons/strike_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Stories have been told of this dragon, an old subspecies of night furies made when ancient people took their dragons to the nether and never returned. They often settle in basalt deltas and crimson forests$(l)$(br2)Spawns:$()$(br)Netherwing Nests$(br2)$(l)Size$()$(br)Length: 8 Blocks $(br)Wingspan: 13 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/stoker/netherwing.png"
+            ],
+            "title": "Netherwing",
+            "text": "Cat-like eyes, shiny black scales, glowing highlights"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Food:$()$(br)Raw Pork$(br2)$(l)Breeding Food:$()$(br)Honeycomb$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held, no armour worn, night vision active; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)2 - 3 Night Fury Scales",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"",
+            "title":"Taming Information Cont."
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 80 HP$(br)$(l)Armour:$() 2 Def$(br)$(l)Base Attack:$() 4 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()35.7 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 3 Dragon Blood$(br)5 - 7 Night Fury Scales",
+            "title":"Dragon Stats"
+        },
+        {
+            "type": "patchouli:text"
+        }
+
+
+       
+    ]   
+}
