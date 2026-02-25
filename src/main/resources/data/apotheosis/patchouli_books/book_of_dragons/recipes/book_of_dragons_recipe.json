@@ -1,0 +1,12 @@
+{
+    "type": "patchouli:shapeless_book_recipe",
+    "ingredients": [
+        {
+            "item": "minecraft:book"
+        },
+        {
+            "item": "archipelagoadditions:dragon_scales"
+        }
+    ],
+    "book": "apotheosis:book_of_dragons"
+}
