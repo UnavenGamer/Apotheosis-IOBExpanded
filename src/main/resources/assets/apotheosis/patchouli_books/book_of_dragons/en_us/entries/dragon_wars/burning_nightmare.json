@@ -1,0 +1,33 @@
+{
+    "name": "Burning Nightmare",
+    "icon": "isleofberk:monstrous_nightmare_egg{VariantName:burning_nightmare}",
+    "category": "apotheosis:dragons/dragon_wars",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Stories have been told of this dragon, an old subspecies of the monstrous nightmare made when ancient people took their dragons to the nether and never returned. They tend to make nests deep within warped forests$(l)$(br2)Spawns:$()$(br)Burning Nightmare Nests$(br2)$(l)Size$()$(br)Length: 19 Blocks $(br)Wingspan: 21 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/stoker/burning_nightmare.png"
+            ],
+            "title": "Burning Nightmare",
+            "text": "Double-clawed wings, two pairs of long horns, golden highlights"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Taming Food:$()$(br)Raw Mutton$(br)Raw Pork$(br2)$(l)Breeding Foods:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held, no armour worn, fire resistance active; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)2 - 3 Burning Nightmare Scales$(br)1 - 2 Burning Nightmare Oil",
+            "title":"Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 120 HP$(br)$(l)Armour:$() 4 Def$(br)$(l)Base Attack:$() 7 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()25 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 3 Dragon Blood$(br)4 - 7 Burning Nightmare Scales$(br)1 - 3 Burning Nightmare Oil",
+            "title":"Dragon Stats"
+        }
+
+
+
+    ]
+}

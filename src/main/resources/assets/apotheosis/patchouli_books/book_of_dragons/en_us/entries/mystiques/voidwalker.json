@@ -1,0 +1,33 @@
+{
+    "name": "VoidWalker",
+    "icon": "isleofberk:light_fury_egg{VariantName:abyssalvoid}",
+    "category": "apotheosis:dragons/mystiques",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A strange Dragon found in the depths of the End. They seem to teleport in and out of an unknown space. The first theory was that they go invisible, similar to the Lightfury however, once they vanish, they vanish. Vikings have put them in places they should NEVER be able to leave, yet they do-$(l)$(br2)Spawns:$()$(br)VoidWalker End Island Nests$(br2)$(l)Size$()$(br)Length: 8 Blocks $(br)Wingspan: 13 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/mystery/voidwalker.png"
+            ],
+            "title": "VoidWalker",
+            "text": "Third eye, cat-like eyes, heart shaped tail fin"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Food:$()$(br)Raw Cod$(br)Raw Salmon$(br2)$(l)Breeding Food:$()$(br)Honeycomb$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held, no armour worn, night vision active; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)2 - 3 SeethingHowl Fluff Clump",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 80 HP$(br)$(l)Armour:$() 2 Def$(br)$(l)Base Attack:$() 4 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()35.7 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 3 Dragon Blood$(br)5 - 7 SeethingHowl Fluff Clump",
+            "title":"Dragon Stats"
+        }
+
+
+
+    ]
+}

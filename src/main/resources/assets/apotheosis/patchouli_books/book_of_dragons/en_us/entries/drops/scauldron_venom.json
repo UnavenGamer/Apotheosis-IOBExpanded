@@ -1,0 +1,30 @@
+{
+    "name": "Scauldron Venom Bottle",
+    "icon": "archipelagoadditions:scauldron_venom",
+    "category": "apotheosis:items/drops",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Dropped from Scauldron. This is the antidote to Blue Oleander poisoning.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/drops/scauldron_venom.png"
+            ],
+            "title": "Drop on Display",
+            "text": "Bright, light blue"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Obtained by brushing or slaying Scauldrons.",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

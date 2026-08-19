@@ -1,0 +1,32 @@
+{
+    "name": "Feed Bundle",
+    "icon": "archipelagoadditions:large_feed_bundle",
+    "category": "apotheosis:items/food",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Packed with meat, fish and useful nutrients, it makes feeding certain larger dragons quicker and far more convenient. $(br2)Edible and very nutritional, but not recommended for human consumption.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/food/feed_bundle.png"
+            ],
+            "title": "Food on Display",
+            "text": "Interesting looking bundle of food"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Crafted using meat and fish in a crafting table",
+            "title": "Obtaining Information"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "archipelagoadditions:large_feed_recipe"
+
+        }
+
+
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Mace Axe Sword",
+    "icon": "archipelagoadditions:mace_axe_sword",
+    "category": "apotheosis:items/artifacts",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Gobber's unique blended weapon, the Mace Axe Sword, created for dragon slaying, was stolen by an Armourwing and made its way in to the hands of the Dragon Hunters",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/artifacts/Mace_Axe_Sword.png"
+            ],
+            "title": "Artifact on Display",
+            "text": "Ultimate Dragon Killing Weapon"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Can be obtained from Dragon Hunter Flagships",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

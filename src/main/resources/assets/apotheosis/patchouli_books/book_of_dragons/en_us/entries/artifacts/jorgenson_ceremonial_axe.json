@@ -1,0 +1,30 @@
+{
+    "name": "Jorgenson Ceremonial Axe",
+    "icon": "archipelagoadditions:jorgenson_ceremonial_axe",
+    "category": "apotheosis:items/artifacts",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "House Jorgenson's trusty ceremonial axe, used for wedding ceremonies, unfortunately taken by the Dragon Hunters",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/artifacts/Jorgenson_Ceremonial_Axe.png"
+            ],
+            "title": "Artifact on Display",
+            "text": "House Jorgenson's Matrimonial Axe"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Can be obtained from Dragon Hunter Flagships",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

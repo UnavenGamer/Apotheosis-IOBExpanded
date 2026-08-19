@@ -1,0 +1,32 @@
+{
+    "name": "Hackatoo",
+    "icon": "archipelagoadditions:hackatoo_egg",
+    "category": "apotheosis:dragons/sharp_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This Sharp Class Dragon is reckless and impulsive, yet a master at collecting wood. $(l)$(br2)Biomes:$()$(br)Meadow and Plains $(br)Savanna and Plateau $(br)Stoney Shores and Peaks$(br2)$(l)Size$()$(br)Length: 5 Blocks $(br)Wingspan: 6 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/sharp/hackatoo.png"
+            ],
+            "title": "Hackatoo",
+            "text": "Elongated body, axe-like snout, spiky back and tail"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Food:$() $(br)Raw Beef$(br)Sagefruit Tree Pulp $(br2)$(l)Breeding Food:$() $(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Hackatoo Scales",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() ? HP$(br)$(l)Armour:$() ? Def$(br)$(l)Base Attack:$() ? HP$(br)$(l)Walking Speed:$() ? Blocks/s$(br)$(l)Flying Speed: $()? Blocks/s$(br2)$(l)Immunities:$()$(br)? $(br2)$(l)Death Drops:$()$(br)1 - 2 Dragon Blood$(br)3 - 5 Hackatoo Scales",
+            "title":"Dragon Stats"
+        }
+
+
+    ]
+}

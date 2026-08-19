@@ -1,0 +1,31 @@
+{
+    "name": "Red Oleander",
+    "icon": "archipelagoadditions:red_oleander_flower",
+    "category": "apotheosis:items/plants",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A red flower with five petals that has some brewing properties. Acts similarly to Nether Wart with its ability to brew Awkward Potions.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/plants/red_oleander.png"
+            ],
+            "title": "Flora on Display",
+            "text": "Ruby Red Flower"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Red Oleander grows in forested biomes, also obtainable from ships",
+            "title": "Obtaining Information"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "archipelagoadditions:dragon_root_remedy"
+        }
+
+
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Nightmare Gel",
+    "icon": "archipelagoadditions:nightmare_gel",
+    "category": "apotheosis:items/drops",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Dropped from Monstrous Nightmares. Can be used to make fireproof adhesive and is used in some recipes.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/drops/nightmare_gel.png"
+            ],
+            "title": "Drop on Display",
+            "text": "Sticky and highly flammable"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Obtained by brushing or slaying Monstrous Nightmares.",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:smelting",
+            "recipe": "archipelagoadditions:dry_nightmare_gel"
+        }
+
+
+    ]
+}

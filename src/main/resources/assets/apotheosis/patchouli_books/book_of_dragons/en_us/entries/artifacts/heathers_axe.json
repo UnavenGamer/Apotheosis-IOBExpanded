@@ -1,0 +1,30 @@
+{
+    "name": "Heather's Axe",
+    "icon": "archipelagoadditions:heathers_axe",
+    "category": "apotheosis:items/artifacts",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The double sided axe Heather the Unhinged wielded, a fitting weapon for her. Alas, it is now in the hands of the Dragon Hunters.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/artifacts/Heathers_Axe.png"
+            ],
+            "title": "Artifact on Display",
+            "text": "Unique double sided axe"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Can be obtained from Dragon Hunter Flagships",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

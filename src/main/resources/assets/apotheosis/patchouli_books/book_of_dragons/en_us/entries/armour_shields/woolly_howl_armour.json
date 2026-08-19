@@ -1,0 +1,30 @@
+{
+    "name": "Woolly Howl Armour",
+    "icon": "archipelagoadditions:woolly_howl_fur_mask",
+    "category": "apotheosis:items/armour_shields",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This armour set is freeze resistant. When wearing a full set of freeze resistant armour, the player does not take freeze damage.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/armour_shields/woolly_howl_armour.json"
+            ],
+            "title": "Full Set",
+            "text": "Used to keep vikings safe from the freezing cold."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Crafted using leather armour and Woolly Howl Fur in a smithing table.",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

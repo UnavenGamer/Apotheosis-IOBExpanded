@@ -1,0 +1,6 @@
+{
+    "name": "Armour & Shields",
+    "description": "Keep yourself safe from the many dangers",
+    "parent": "apotheosis:items",
+    "icon": "archipelagoadditions:round_shield_berserker"
+}

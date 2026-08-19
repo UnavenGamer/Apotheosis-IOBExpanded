@@ -1,0 +1,30 @@
+{
+    "name": "Dragon Spines",
+    "icon": "archipelagoadditions:nadder_spine",
+    "category": "apotheosis:items/drops",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Dropped from spined dragons (Deadly Nadder, Deathly Galeslash, Hushboggle, Razorwhip, Screaming Death, and Whispering Death). Each spine can be used to craft a Dragon Spine Spear for that type of spine.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/drops/spines.png"
+            ],
+            "title": "Drop on Display",
+            "text": "Sharp and Pointy"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Dropped when using a brush on a Dragon, also obtained by slaying dragons.",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

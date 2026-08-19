@@ -18,21 +18,13 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(l)Taming Food:$()$(br)Raw Cod$(br)Raw Pork$(br)Raw Beef$(br)$(o)Arctic Ocean:$()$(br)Atlantic Cod$(br)Blackfish$(br)Pacific Halibut$(br)Atlantic Halibut$(br)Atlantic Herring$(br)Pink Salmon$(br)Pollock$(br)Rainbow Trout",
+            "text": "$(l)Taming Food:$()$(br)Raw Cod$(br)Raw Pork$(br)Raw Beef$(br2)$(l)Breeding Food:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Gronckle Scales",
             "title": "Taming Information"
-        },
-        {
-            "type": "patchouli:text",
-            "text": "$(l)Breeding Food:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Gronckle Scales",
-            "title": "Taming Information Cont."
         },
         {
             "type":"patchouli:text",
             "text":"$(l)Health:$() 710 HP$(br)$(l)Armour:$() 3 Def$(br)$(l)Base Attack:$() 10 HP$(br)$(l)Walking Speed:$() 7.6 Blocks/s$(br)$(l)Flying Speed: $()5.4 Blocks/s$(br2)$(l)Immunities:$()$(br)None $(br2)$(l)Death Drops:$()$(br)1 - 2 Dragon Blood$(br)3 - 5 Gronckle Scales",
             "title":"Dragon Stats"
-        },
-        {
-            "type":"patchouli:text"
         }
 
 

@@ -1,0 +1,31 @@
+{
+    "name": "Gronckle Iron Shield",
+    "icon": "archipelagoadditions:gronckle_shield",
+    "category": "apotheosis:items/armour_shields",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A reinforced variety of the classic round viking shields that are crafted using Gronckle Iron with the same unique designs on them. A staple for the true viking warrior",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/armour_shields/Gronckle_Iron_shield.png"
+            ],
+            "title": "Full Set",
+            "text": "A more reinforced version of the classic viking shield"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Crafted using Wood Panks and Iron in a Crafting Table$(br2)Repairable using Wood Planks",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe": "archipelagoadditions:gronckle_shield"
+        }
+
+
+    ]
+}

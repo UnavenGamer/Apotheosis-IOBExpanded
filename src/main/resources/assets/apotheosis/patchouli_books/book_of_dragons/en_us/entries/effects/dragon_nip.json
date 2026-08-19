@@ -1,0 +1,21 @@
+{
+    "name": "Dragon Nip (Effect)",
+    "icon": "archipelagoadditions:dragon_nip",
+    "category": "apotheosis:effects",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Dragon Nip is a status effect that makes affected Dragons passive for the effects duration & allows for taming wild Dragons.",
+            "title": "Basic Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"When a Dragon initially acquires the Dragon Nip Effect any current hostility is lost, and the dragon remains passive for the duration of the effect. $(br2)Additionally, while this effect is active on a wild dragon, it allows players to tame them without meeting the Dragons Taming Requirements (the correct food item is still required in its regular quantity).",
+            "title":"Effect Information"
+        }
+
+
+
+
+    ]
+}

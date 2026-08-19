@@ -1,7 +1,7 @@
 {
     "name": "Book of Dragons",
-    "landing_text": "A Guide to Everything Dragon and Dragon Adjacent",
-    "version": 1.1,
+    "landing_text": "A Guide to Everything Dragon and Dragon Adjacent$(br2)Special thanks to SnowCheetah42 and PizzaForLivet for helping me gather information",
+    "version": 1.4,
     "creative_tab": "isle_of_berk",
     "use_resource_pack": true,
     "use_blocky_font": true,

@@ -1,0 +1,41 @@
+{
+    "name": "Flight Suit",
+    "icon": "archipelagoadditions:flight_suit_helmet",
+    "category": "apotheosis:items/armour_shields",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The first full flight-suit invented by Hiccup.$(br2)This armour set is fire retardant. When wearing a full set of fire retardant armour, if the player is then lit on fire, the fire is immeditaly extinguished as long as they are not still within a source of fire$(br2)For example, if a player was wearing a full fire retardant armour set and standing in fire, they would stay on fire like normal; However the moment the player steps out from the fire, the fire is extinguished on the player.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/armour_shields/flight_suit.png"
+            ],
+            "title": "Full Set",
+            "text": "Fire-retardant flight-suit for gliding alongside your dragons."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Crafted using mostly Gronckle Iron, Fireproof Adhesive, and Leather in a Crafting Table$(br2)Repairable using Fireproof Adhesive $(br2)Flight Suit Torso also requires Flight Suit Membrane and Flight Suit Fin",
+            "title": "Obtaining Information"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "archipelagoadditions:flight_suit_helmet",
+            "recipe2": "archipelagoadditions:flight_suit_chestplate"
+
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "archipelagoadditions:flight_suit_leggings",
+            "recipe2": "archipelagoadditions:flight_suit_boots"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

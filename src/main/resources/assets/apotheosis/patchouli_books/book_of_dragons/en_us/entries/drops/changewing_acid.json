@@ -1,0 +1,30 @@
+{
+    "name": "Changewing Acid",
+    "icon": "archipelagoadditions:changewing_acid",
+    "category": "apotheosis:items/drops",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Coming Soon",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/drops/changewing_acid.png"
+            ],
+            "title": "Drop on Display",
+            "text": "Highly Corrosive and Volatile"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Obtained by slaying Changewings.",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

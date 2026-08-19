@@ -1,0 +1,33 @@
+{
+    "name": "Mqze",
+    "icon": "archipelagoadditions:slitherwing_egg",
+    "category": "apotheosis:dragon_riders",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A somewhat unusual character who had a knack for finding legless dragons.$(l)$(br2)Structures:$()$(br)Dragon Hunter Banner Ship$(br)Dragon Hunter Flag Ship",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/dragon_riders/mqze_mazikist.png"
+            ],
+            "title": "Mazikist",
+            "text": "Long snake-like body, irregular spikes on head"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Befriending Gift:$()$(br)Rune$(br2)$(l)Befriending Requirements:$()$(br)Decrease dragon below 25% hp; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Slitherwing Scales",
+            "title":"Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 80 HP$(br)$(l)Armour:$() 10 Def$(br)$(l)Base Attack:$() 12 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()25 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 2 Dragon Blood$(br)3 - 5 Slitherwing Scales$(br)2 - 3 Venom Glands",
+            "title":"Dragon Stats"
+        }
+
+
+
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Dragonfly One",
+    "icon": "archipelagoadditions:dragonfly_one",
+    "category": "apotheosis:items/armour_shields",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A prototype glide-suit invented by Hiccup. While equipped to the chest, it functions like an Elytra.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/armour_shields/dragonfly_1.png"
+            ],
+            "title": "Full Set",
+            "text": "Hiccup's First Flight Suit Iteration"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Crafted using Gronckle Iron, Fireproof Adhesive, and Leather in a Crafting Table$(br2)Repairable using Fireproof Adhesive$(br2)Can also be found on End Ships in place of Elytra.",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe": "archipelagoadditions:dragonfly_mk1"
+        }
+
+
+    ]
+}

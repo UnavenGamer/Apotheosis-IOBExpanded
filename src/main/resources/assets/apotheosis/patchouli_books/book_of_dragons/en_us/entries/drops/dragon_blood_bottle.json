@@ -1,0 +1,30 @@
+{
+    "name": "Dragon Blood Bottle",
+    "icon": "archipelagoadditions:dragon_blood_bottle",
+    "category": "apotheosis:items/drops",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Dragon blood bottles can be used to craft the Dragon Hunter Stall, Dragon Blood Marinated Feed, Dragon Hunter Crest banner pattern, Dragon Proof Metal, and Dragon Proof Metal Mixture.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/drops/blood.png"
+            ],
+            "title": "Drop on Display",
+            "text": "Obtained by slaying dragons"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Crafted using Dragon Meat, also obtained by slaying dragons.",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

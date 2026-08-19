@@ -1,0 +1,29 @@
+{
+    "name": "Refined Dragon Root (Effect)",
+    "icon": "archipelagoadditions:dragon_root_arrow_bundle",
+    "category": "apotheosis:effects",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Dragon Root is a status effect that makes affected Dragons passive for the effects duration, causes Dragons to fall out of the sky if in flight, has their movement crippled, and any riders will be kicked off. $(br2)It can be cured by right clicking on an afflicted dragon with a Dragon Root Remedy.",
+            "title": "Basic Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"When a Dragon is initially affected by the Refined Dragon Root Effect any current hostility is lost, and the dragon remains passive for the duration of the effect. $(br2)If the Dragon is in flight, it will force the Dragon to land, and it will have limited movement for the duration of the effect. Any riders or passengers are forcibly dismounted from the affected dragon, and will be unable to remount the dragon until the effect has been removed.",
+            "title":"Effect Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"Additionally, while this effect is active on a wild dragon, it allows players to feed them without meeting the Dragons Taming Requirements (the correct food item is still required in its regular quantity), but won't allow you to ride the dragon to finish taming them.",
+            "title":"Effect Information cont."
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+
+
+    ]
+}

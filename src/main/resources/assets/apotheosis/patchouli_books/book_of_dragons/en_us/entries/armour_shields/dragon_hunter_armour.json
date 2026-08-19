@@ -1,0 +1,30 @@
+{
+    "name": "Hunter Armour",
+    "icon": "archipelagoadditions:dragon_hunter_helmet",
+    "category": "apotheosis:items/armour_shields",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This armour set is fire retardant. When wearing a full set of fire retardant armour, if the player is then lit on fire, the fire is immeditaly extinguished as long as they are not still within a source of fire$(br2)For example, if a player was wearing a full fire retardant armour set and standing in fire, they would stay on fire like normal; However the moment the player steps out from the fire, the fire is extinguished on the player.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/armour_shields/dragon_hunter_armour.png"
+            ],
+            "title": "Full Set",
+            "text": "Complete armour set worn by Dragon Hunter Entities"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Crafted using Leather Armour + Any Dragon Scales in Smithing Table$(br2)Repairable using Dragon Scales$(br2)Can also be found on armour stands in Dragon Hunter Ships",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

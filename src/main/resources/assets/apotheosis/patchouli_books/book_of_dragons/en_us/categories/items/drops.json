@@ -1,0 +1,6 @@
+{
+    "name": "Dragon Drops",
+    "description": "Useful items received from taming or slaying dragons",
+    "parent": "apotheosis:items",
+    "icon": "archipelagoadditions:singetail_scales"
+}

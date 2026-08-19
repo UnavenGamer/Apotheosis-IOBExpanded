@@ -1,0 +1,6 @@
+{
+    "name": "Plants",
+    "description": "All the flora found around the Terrible Archipelago",
+    "parent": "apotheosis:items",
+    "icon": "archipelagoadditions:dragon_nip"
+}

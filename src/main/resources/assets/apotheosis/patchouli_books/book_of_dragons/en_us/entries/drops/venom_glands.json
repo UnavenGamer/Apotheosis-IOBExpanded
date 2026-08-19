@@ -1,0 +1,30 @@
+{
+    "name": "Venom Glands",
+    "icon": "archipelagoadditions:venom_gland",
+    "category": "apotheosis:items/drops",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Dropped from venomous dragons (such as the Triple Stryke). Can be used to make poison potions and is used in some recipes.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/drops/venom.png"
+            ],
+            "title": "Drop on Display",
+            "text": "Sticky and Putrid"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Obtained by slaying dragons.",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

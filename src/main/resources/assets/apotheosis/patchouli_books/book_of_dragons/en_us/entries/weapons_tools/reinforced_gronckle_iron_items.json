@@ -1,0 +1,30 @@
+{
+    "name": "Reinforced Gronckle Iron Items",
+    "icon": "isleofberk:belzium_pickaxe",
+    "category": "apotheosis:items/weapons_tools",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Even stronger than your average tools and weapons, these Reinforced Grockle Iron items will keep you going and even rivals the Reinforced Dragon Hunter Items.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/weapons_armour/belzium_items.png"
+            ],
+            "title": "Item on Display",
+            "text": "Reinforced Gronckle Iron Tools and Weapons"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Crafted using Gronckle Iron Items and Thor's Ore in a smithing table.",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

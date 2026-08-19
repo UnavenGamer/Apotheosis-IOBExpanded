@@ -1,0 +1,31 @@
+{
+    "name": "",
+    "icon": "archipelagoadditions:",
+    "category": "apotheosis:items/weapons_tools",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/weapons_armour/.png"
+            ],
+            "title": "Item on Display",
+            "text": ""
+        },
+        {
+            "type": "patchouli:text",
+            "text": "",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe":"archipelagoadditions:"
+        }
+
+
+    ]
+}

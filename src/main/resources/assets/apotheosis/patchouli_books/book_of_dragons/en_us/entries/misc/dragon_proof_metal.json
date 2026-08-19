@@ -1,0 +1,33 @@
+{
+    "name": "Dragon Proof Metal",
+    "icon": "archipelagoadditions:dragon_proof_metal_ingot",
+    "category": "apotheosis:items/misc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Refined scraps or fresh alloy; these ingots can be used for crafting Dragon Proof Key Moulds and Dragon Hunter tools and armour.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/misc/dragon_proof_metal.png"
+            ],
+            "title": "Item on Display",
+            "text": "A bloody amalgamation that can resist dragons"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Crafted using Dragon Blood, Raw Gronckle Iron, Obsidian and Copper in a crafting table or by smelting Dragon Proof Metal Mixture",
+            "title": "Obtaining Information"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "archipelagoadditions:dragon_proof_metal_ingot",
+            "recipe2": "archipelagoadditions:dragonproof_mixture"
+
+        }
+
+
+    ]
+}

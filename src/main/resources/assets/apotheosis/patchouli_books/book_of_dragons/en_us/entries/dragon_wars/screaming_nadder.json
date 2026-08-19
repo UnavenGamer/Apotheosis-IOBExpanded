@@ -1,0 +1,32 @@
+{
+    "name": "Screaming Nadder",
+    "icon": "isleofberk:nadder_egg{VariantName:screaming_nadder}",
+    "category": "apotheosis:dragons/dragon_wars",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Stories have been told of this dragon, an old subspecies of the Deadly Nadder made when ancient people took their dragons to the nether and never returned. They often settle in warped and crimson forests$(l)$(br2)Spawns:$()$(br)Screaming Nadder Nests$(br2)$(l)Size$()$(br)Length: 9 Blocks $(br)Wingspan: 15 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/sharp/screaming_nadder.png"
+            ],
+            "title": "Screaming Nadder",
+            "text": "Nasal horn, spiky crown, spiny tail"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Foods:$()$(br)Raw Chicken$(br)$(l)Breeding Foods:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Deadly Nadder Scales$(br)0 - 1 Deadly Nadder Spines",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 50 HP$(br)$(l)Armour:$() 2 Def$(br)$(l)Base Attack:$() 8 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()25 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 2 Dragon Blood$(br)3 - 5 Deadly Nadder Scales$(br)1 - 2 Deadly Nadder Spines",
+            "title":"Dragon Stats"
+        }
+
+
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Nadderdon",
+    "icon": "isleofberk:nadder_egg{VariantName:mutadon}",
+    "category": "apotheosis:dragons/otg_hybrids",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "An oddly mutated Deadly nadder, left to rot in an abandoned testing facility.$(l)$(br2)Spawns:$()$(br)Abandoned Testing Facility$(br2)$(l)Size$()$(br)Length: 8 Blocks $(br)Wingspan: 11",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/sharp/nadderdon.png"
+            ],
+            "title": "Nadderdon",
+            "text": "Pterosaur-like wings, Deadly Nadder spikes, Rapor-like legs"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Foods:$()$(br)Feed Bundle$(br)Blood Marinated Feed Bundle$(br)$(l)Breeding Foods:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Deadly Nadder Scales",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 110 HP$(br)$(l)Armour:$()2 Def$(br)$(l)Base Attack:$() 8 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()25 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 2 Dragon Blood$(br)3 - 5 Deadly Nadder Scales$(br)1 - 2 Deadly Nadder Spines",
+            "title":"Dragon Stats"
+        }
+
+
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Dragon Blood Scent",
+    "icon": "archipelagoadditions:dragon_blood_bottle",
+    "category": "apotheosis:effects",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Dragon Blood Scent is a status effect that prevents an afflicted player from directly interacting with Dragons for the duration of the effect (typically 25 minutes). $(br2)The effect cannot be removed with milk or commands. Dying or waiting for the effect to end will remove the effect.",
+            "title": "Basic Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"When a player is afflicted with the Dragon Blood Scent effect they cannot directly command, ride, or tame any Dragons for as long as the scent lingers. $(br2)Indirectly commanding Dragons with Dragon Command Items bypasses this effect",
+            "title":"Effect Information"
+        }
+
+
+
+
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Off The Grid",
+    "parent":"apotheosis:dragons",
+    "description": "This unfortunate class of dragons are mostly the results of unsanctioned experiments with the DNA of dragons and dinosaurs. Dragons in this class are generally more feared than those in other classes.",
+    "icon": "isleofberk:stinger_egg{VariantName:wrong_protector}"
+}

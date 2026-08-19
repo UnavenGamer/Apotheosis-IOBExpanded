@@ -1,0 +1,6 @@
+{
+    "name": "Mystiques of the Wild",
+    "parent":"apotheosis:dragons",
+    "description": "This unique class of dragons are all hybrid combining various elements from the dragons we know and love. Dragons in this class have a somewhat ephemeral feel to them.",
+    "icon": "isleofberk:light_fury_egg{VariantName:aether_steps}"
+}

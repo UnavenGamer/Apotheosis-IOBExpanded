@@ -1,0 +1,31 @@
+{
+    "name": "Viking Shields",
+    "icon": "archipelagoadditions:round_shield",
+    "category": "apotheosis:items/armour_shields",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A wide variety of the classic round viking shields that are crafted or found around the world with some unique designs on them. A staple for the viking warrior",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/armour_shields/Viking_shield.png"
+            ],
+            "title": "Full Set",
+            "text": "The most basic of the Viking Shields"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Crafted using Wood Panks and Iron in a Crafting Table$(br2)Repairable using Wood Planks$(br2)Can also be found in and on the sides of Dragon Hunter and Trader Johann Ships",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe":"archipelagoadditions:round_shield"
+        }
+
+
+    ]
+}

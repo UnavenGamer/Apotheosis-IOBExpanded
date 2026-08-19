@@ -1,0 +1,33 @@
+{
+    "name": "Raekira",
+    "icon": "archipelagoadditions:woolly_howl_egg",
+    "category": "apotheosis:dragon_riders",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A guests from the world of Pheonix Wright: Ace Attorney .$(l)$(br2)Structures:$()$(br)Dragon Hunter Banner Ship$(br)Dragon Hunter Flag Ship",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/dragon_riders/raekira_bloodspark.png"
+            ],
+            "title": "Bloodspark",
+            "text": "Double-clawed wings, two pairs of long horns, sharp spines"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Befriending Gift:$()$(br)Rune$(br2)$(l)Befriending Requirements:$()$(br)No tools or weapons held, no armour worn, night vision active; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Wooly Howl Scales",
+            "title":"Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 190 HP$(br)$(l)Armour:$() 12 Def$(br)$(l)Base Attack:$() 11 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()25 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 2 Dragon Blood$(br)3 - 5 Wooly Howl Scales",
+            "title":"Dragon Stats"
+        }
+
+
+
+    ]
+}

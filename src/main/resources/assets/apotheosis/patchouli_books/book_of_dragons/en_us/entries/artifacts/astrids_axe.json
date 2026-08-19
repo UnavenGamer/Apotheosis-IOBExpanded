@@ -1,0 +1,30 @@
+{
+    "name": "Astrid's Axe",
+    "icon": "archipelagoadditions:astrids_axe",
+    "category": "apotheosis:items/artifacts",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Used by Astrid Hofferson as an adult, often being strapped to the side of Stormfly's Saddle, now in the hands of the Dragon Hunters.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/artifacts/Astrids_Axe.png"
+            ],
+            "title": "Artifact on Display",
+            "text": "Astrid's New Axe"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Can be obtained from Dragon Hunter Flagships",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

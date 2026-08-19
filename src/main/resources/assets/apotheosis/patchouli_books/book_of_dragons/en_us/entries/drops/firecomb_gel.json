@@ -1,0 +1,31 @@
+{
+    "name": "Firecomb Gel",
+    "icon": "archipelagoadditions:firecomb_gel",
+    "category": "apotheosis:items/drops",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Resulting from the hard work of fireworms, this is the first stage of making Firecomb",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/drops/firecomb_gel.png"
+            ],
+            "title": "Drop on Display",
+            "text": "Sweet and flammable gel"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Obtained by brushing Fireworms, crafted from Firecombs, or harvested from Firecomb Nests.",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe": "archipelagoadditions:firecomb_gel_from_firecomb"
+        }
+
+
+    ]
+}

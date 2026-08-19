@@ -1,0 +1,21 @@
+{
+    "name": "Wild Agression",
+    "icon": "archipelagoadditions:screaming_death_spine",
+    "category": "apotheosis:effects",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Wild Aggression is a status effect that makes affected Dragons hostile towards nearby Players for the effects duration. $(br2)Dragons aggravated this way can't be calmed down using Dragon Nip or by abiding by their taming requirements.",
+            "title": "Basic Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"When a Dragon initially acquires the Wild Aggression Effect they become hostile to any nearby Players, and the affected dragon remains hostile for the duration of the effect.",
+            "title":"Effect Information"
+        }
+
+
+
+
+    ]
+}

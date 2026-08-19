@@ -1,0 +1,30 @@
+{
+    "name": "Ryker's Sword",
+    "icon": "archipelagoadditions:rykers_sword",
+    "category": "apotheosis:items/artifacts",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The sword Ryker Grimborn used in battle, lost to the depths after an encounter with Hiccup and the Dragon Riders.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/artifacts/Rykers_Sword.png"
+            ],
+            "title": "Artifact on Display",
+            "text": "Ryker's Dragon Hunter Sword"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Can be obtained from Dragon Hunter Flagships",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

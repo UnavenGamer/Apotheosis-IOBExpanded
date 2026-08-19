@@ -1,0 +1,33 @@
+{
+    "name": "Melody",
+    "icon": "archipelagoadditions:silver_phantom_egg",
+    "category": "apotheosis:dragon_riders",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A wandering explorer travelling with a fishing spear and rod to keep her and her dragon fed.$(l)$(br2)Structures:$()$(br)Dragon Hunter Flag Ship",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/dragon_riders/melody_galestorm.png"
+            ],
+            "title": "Galestorm",
+            "text": "Diamond-shaped wing lobes, small head, thin neck"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Befriending Gift:$()$(br)Rune$(br2)$(l)Befriending Requirements:$()$(br)No tools or weapons held, no armour worn, night vision active; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Silver Phantom Scales",
+            "title":"Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 190 HP$(br)$(l)Armour:$() 12 Def$(br)$(l)Base Attack:$() 11 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()25 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 2 Dragon Blood$(br)3 - 5 Silver Phantom Scales$(br)Fishing Spear$(br)Melody's Fishing Rod",
+            "title":"Dragon Stats"
+        }
+
+
+
+    ]
+}

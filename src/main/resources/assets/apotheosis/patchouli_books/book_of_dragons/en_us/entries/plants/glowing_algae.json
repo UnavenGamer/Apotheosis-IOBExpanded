@@ -1,0 +1,30 @@
+{
+    "name": "Glowing Algae",
+    "icon": "archipelagoadditions:glowing_algae",
+    "category": "apotheosis:items/plants",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A brilliant glowing blue algae favoured by the flightmare. This glowing algae is the sole reason the flightmare has its ghostly blue hue",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/plants/glowing_algae.png"
+            ],
+            "title": "Flora on Display",
+            "text": "Glowing Blue Algae"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Fished up from swamps and rivers.",
+            "title": "Obtaining Information"
+        },
+        {
+            "type": "patchouli:text"
+        }
+
+
+    ]
+}

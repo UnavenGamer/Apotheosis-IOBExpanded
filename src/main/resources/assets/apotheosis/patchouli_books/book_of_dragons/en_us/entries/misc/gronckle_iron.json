@@ -1,0 +1,38 @@
+{
+    "name": "Gronckle Iron",
+    "icon": "isleofberk:gronckle_iron",
+    "category": "apotheosis:items/misc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Refined Gronckle waste; these ingots can be used for crafting Keys and various others sets of tools, shields, armour and weapons.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/misc/gronckle_iron.png"
+            ],
+            "title": "Item on Display",
+            "text": "A strong alloy with unique properties."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Smelted from Raw Gronckle iron; obtained by feeding Gronckle: Gronckle Iron Formula",
+            "title": "Obtaining Information"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "archipelagoadditions:gronckle_iron_formula"
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "archipelagoadditions:gronckle_iron_from_smelting_raw_iron"
+        },
+        {
+            "type": "patchouli:text"
+        }
+
+
+    ]
+}

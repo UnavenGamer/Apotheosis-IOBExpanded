@@ -1,0 +1,32 @@
+{
+    "name": "Bone Feed Bundle",
+    "icon": "archipelagoadditions:large_bone_feed_bundle",
+    "category": "apotheosis:items/food",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Packed with bones and useful nutrients, the Boneknapper's favourite snack. $(br2)Edible and very nutritional, but not recommended for human consumption.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/food/bone_feed_bundle.png"
+            ],
+            "title": "Food on Display",
+            "text": "Interesting looking bundle of food and bones"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Crafted using bones, meat and fish in a crafting table",
+            "title": "Obtaining Information"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "archipelagoadditions:large_bone_feed_recipe"
+
+        }
+
+
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Grimora Toxin",
+    "icon": "archipelagoadditions:salt",
+    "category": "apotheosis:effects",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Grimora Toxin is a three stage status effect that will result in affected Dragons becoming hostile towards most other entities for the effects duration. $(br2)It can be cured by right clicking on an afflicted dragon with Salt, or by luring them into water source blocks in Beach or Ocean Biomes.",
+            "title": "Basic Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"When a Dragon is inflicted with the Grimora Toxin Stage 1 Effect, it will last for 10 minutes, and during that time nothing will happen until the effect naturally ends; at which point the effect progresses to Stage 2. During stage 1 is the best and safest time to cure your Dragon.",
+            "title":"Effect Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"When a Dragon progresses to the Grimora Toxin Stage 2 Effect, it will last for another 10 minutes, during which the dragon will become hostile to all but Grimora and Grimora toxin inflicted entities. If this effect naturally ends after the 10 minutes, the effect progresses to stage 3.",
+            "title":"Effect Information cont."
+        },
+        {
+            "type":"patchouli:text",
+            "text":"When a Dragon progresses to the Grimora Infestation Effect (Stage 3), it will last indefinitely until cured, during which the dragon continues to be hostile towards to all but Grimora and Grimora toxin inflicted entities and will periodically spawn more Grimora around them.",
+            "title":"Effect Information cont."
+        }
+
+
+
+
+    ]
+}

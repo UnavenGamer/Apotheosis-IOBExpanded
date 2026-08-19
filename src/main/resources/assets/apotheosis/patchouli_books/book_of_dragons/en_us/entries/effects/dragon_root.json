@@ -1,0 +1,21 @@
+{
+    "name": "Dragon Root (Effect)",
+    "icon": "archipelagoadditions:dragon_root",
+    "category": "apotheosis:effects",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Dragon Root is a status effect that makes affected Dragons hostile towards other nearby dragons for the effects duration. $(br2)It can be cured by right clicking on an afflicted dragon with a Dragon Root Remedy.",
+            "title": "Basic Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"When a susceptible Dragon initially acquires the Dragon Root Effect they become hostile to any nearby dragons that are also susceptible to the effect. $(br2)The affected dragon remains hostile for the duration of the effect unless cured by right clicking on an afflicted dragon with a Dragon Root Remedy.",
+            "title":"Effect Information"
+        }
+
+
+
+
+    ]
+}

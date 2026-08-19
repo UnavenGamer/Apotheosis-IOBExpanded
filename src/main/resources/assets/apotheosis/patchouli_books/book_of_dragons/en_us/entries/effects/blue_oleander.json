@@ -1,0 +1,21 @@
+{
+    "name": "Blue Oleander",
+    "icon": "archipelagoadditions:blue_oleander_flower",
+    "category": "apotheosis:effects",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Blue Oleander is a status effect that inflicts damage over time to afflicted Dragons. It acts similarly to the Wither Effect, except it acts slower, only harms Dragons, and scales in damage the longer the effect is active. $(br2) It can be cured by right clicking on an afflicted dragon with Scauldron Venom.",
+            "title": "Basic Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"When a Dragon initially acquires the Blue Oleander Effect, they take 4 damage and then every 10 minutes there after while the effect is active, the dragon takes a damage tick from the effect. $(br2)The damage from this tick increases by 50% cumulative each time it is applied, and this process continues until the dragon dies or the effect is removed.",
+            "title":"Effect Information"
+        }
+
+
+
+
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Astrid",
+    "icon": "archipelagoadditions:deadly_nadder_egg",
+    "category": "apotheosis:dragon_riders",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Chieftess of Berk and a fearless warrior.$(l)$(br2)Structures:$()$(br)Dragon Hunter Banner Ship$(br)Dragon Hunter Flag Ship",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/dragon_riders/astrid_stormfly.png"
+            ],
+            "title": "Stormfly",
+            "text": "Large spines on head, sharp spines on tail, extremely loyal"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Befriending Gift:$()$(br)Rune$(br2)$(l)Befriending Requirements:$()$(br)No tools or weapons being held; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Deadly Nadder Scales",
+            "title":"Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 100 HP$(br)$(l)Armour:$() 10 Def$(br)$(l)Base Attack:$() 8 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()25 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 2 Dragon Blood$(br)3 - 5 Deadly Nadder Scales",
+            "title":"Dragon Stats"
+        }
+
+
+
+    ]
+}

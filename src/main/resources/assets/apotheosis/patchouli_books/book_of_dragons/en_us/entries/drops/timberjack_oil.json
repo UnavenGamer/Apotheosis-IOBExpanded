@@ -1,0 +1,30 @@
+{
+    "name": "Timberjack Oil",
+    "icon": "archipelagoadditions:timberjack_oil",
+    "category": "apotheosis:items/drops",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Can be used to make dragon blade canisters and is used in some recipes.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/drops/timberjack_oil.png"
+            ],
+            "title": "Drop on Display",
+            "text": "Slick and highly flammable"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Obtained by brushing or slaying Timberjacks.",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

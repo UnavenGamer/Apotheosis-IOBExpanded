@@ -1,0 +1,30 @@
+{
+    "name": "Hofferson Axe",
+    "icon": "archipelagoadditions:hofferson_axe",
+    "category": "apotheosis:items/artifacts",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Astrid's old axe, still belonging to House Hofferson, stolen by the Dragon Hunters after receiving her new axe.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/artifacts/Hofferson_Axe.png"
+            ],
+            "title": "Artifact on Display",
+            "text": "Axe of House Hofferson"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Can be obtained from Dragon Hunter Flagships",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

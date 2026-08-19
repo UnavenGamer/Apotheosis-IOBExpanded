@@ -1,0 +1,30 @@
+{
+    "name": "Woolly Howl Fur",
+    "icon": "archipelagoadditions:woolly_howl_fur",
+    "category": "apotheosis:items/drops",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Woolly Howl fur can be combined with leather armor in a smithing table to create the Woolly Howl Fur Armour. Villagers with the Dragon Hunter Trader profession can also sell woolly howl fur in exchange for runes.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/drops/fur.png"
+            ],
+            "title": "Drop on Display",
+            "text": "Soft and fluffy"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Obtained brushing or by slaying Woolly Howls.",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

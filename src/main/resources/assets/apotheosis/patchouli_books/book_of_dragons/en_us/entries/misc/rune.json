@@ -1,0 +1,27 @@
+{
+    "name": "Rune",
+    "icon": "archipelagoadditions:rune",
+    "category": "apotheosis:items/misc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A common currency traded among Dragon Hunters for various goods.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/misc/rune.png"
+            ],
+            "title": "Item on Display",
+            "text": "Blue coin used for trading."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Found in structures around the world, can be obtained via trading with Dragon Hunter Trader and slaying Dragon Hunters",
+            "title": "Obtaining Information"
+        }
+
+
+    ]
+}

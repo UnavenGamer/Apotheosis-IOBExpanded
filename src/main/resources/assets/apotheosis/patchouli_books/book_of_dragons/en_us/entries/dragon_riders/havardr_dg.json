@@ -1,0 +1,33 @@
+{
+    "name": "Havardr",
+    "icon": "archipelagoadditions:triple_stryke_egg",
+    "category": "apotheosis:dragon_riders",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Roaming the Terrible Archipelago in search for the perfect place to settle.$(l)$(br2)Structures:$()$(br)Dragon Hunter Banner Ship$(br)Dragon Hunter Flag Ship",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/dragon_riders/havardr_dg.png"
+            ],
+            "title": "DG",
+            "text": "Three tails, bandana on right most, protective demeanor"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Befriending Gift:$()$(br)Rune$(br2)$(l)Befriending Requirements:$()$(br)Decrease dragon below 25% hp; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Triple Stryke Scales",
+            "title":"Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 100 HP$(br)$(l)Armour:$() 10 Def$(br)$(l)Base Attack:$() 12 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()25 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 2 Dragon Blood$(br)3 - 5 Triple Stryke Scales$(br)2 - 3 Venom Glands",
+            "title":"Dragon Stats"
+        }
+
+
+
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Dragon Scales",
+    "icon": "archipelagoadditions:scuttleclaw_scales",
+    "category": "apotheosis:items/drops",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Each dragon, when killed or brushed, will drop its scales. These scales can be used for crafting the banner pattern or patterned Shield for that dragon's class, and in future will be used for crafting player armour. They can also be used to make potions.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/drops/scales.png"
+            ],
+            "title": "Drop on Display",
+            "text": "Shiny and fire proof"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Dropped when using a brush on a Dragon, also obtained by slaying dragons.",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

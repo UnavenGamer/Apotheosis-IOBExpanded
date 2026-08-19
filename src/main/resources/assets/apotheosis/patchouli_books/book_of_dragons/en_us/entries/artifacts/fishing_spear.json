@@ -1,0 +1,30 @@
+{
+    "name": "Fishing Spear",
+    "icon": "archipelagoadditions:fishing_spear",
+    "category": "apotheosis:items/artifacts",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Melody's trusty fishing spear that keeps her and Galestorm fed, that and her fishing rod.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/artifacts/fishing_spear.png"
+            ],
+            "title": "Artifact on Display",
+            "text": "Melody's Fishing Spear"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Can be obtained by defeating Melody and Galestorm",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

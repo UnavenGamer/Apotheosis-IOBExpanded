@@ -1,0 +1,30 @@
+{
+    "name": "Snow Wraith Tooth",
+    "icon": "archipelagoadditions:snow_wraith_tooth",
+    "category": "apotheosis:items/drops",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Used to open Dragon Proof Crates. Can be used to make Dragon Proof Key Mould and is used in some recipes.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/drops/snow_wraith_tooth.png"
+            ],
+            "title": "Drop on Display",
+            "text": "Sharp and Durable"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Obtained by slaying Snow Wraiths.",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Weapons & Tools",
+    "description": "Combat and Adventure ready",
+    "parent": "apotheosis:items",
+    "icon": "isleofberk:gronckle_iron_sword"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Vanaheim Fruit",
+    "icon": "archipelagoadditions:vanaheim_fruit",
+    "category": "apotheosis:items/plants",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A unique fruit that is edible to both humans and dragons, favoured by the Sentinels of Vanaheim",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/plants/vanaheim_fruit.png"
+            ],
+            "title": "Flora on Display",
+            "text": "A mix of a nectarine, plum and tomato"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Harvested from the Vanaheim Sapling",
+            "title": "Obtaining Information"
+        }
+
+
+    ]
+}

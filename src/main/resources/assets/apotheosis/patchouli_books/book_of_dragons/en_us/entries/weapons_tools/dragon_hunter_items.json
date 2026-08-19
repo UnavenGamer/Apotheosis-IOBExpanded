@@ -1,0 +1,58 @@
+{
+    "name": "Dragon Hunter Items",
+    "icon": "archipelagoadditions:dragon_hunter_pickaxe",
+    "category": "apotheosis:items/weapons_tools",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "An assortment of basic tools and weapons commonly used by the dragon hunters. Not the strongest, but they get the job done.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/weapons_armour/dragon_hunter_items.png"
+            ],
+            "title": "Item on Display",
+            "text": "Basic Dragon Hunter Tools and Weapons"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Crafted using Dragon Proof Metal Ingots and sticks in a crafting table",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe":"archipelagoadditions:dragon_hunter_sword",
+            "recipe2":"archipelagoadditions:dragon_hunter_pickaxe"
+
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe":"archipelagoadditions:dragon_hunter_axe",
+            "recipe2":"archipelagoadditions:dragon_hunter_doubleaxe"
+
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe":"archipelagoadditions:dragon_hunter_flail",
+            "recipe2":"archipelagoadditions:dragon_hunter_mace"
+
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe":"archipelagoadditions:dragon_hunter_bow",
+            "recipe2":"archipelagoadditions:dragon_hunter_crossbow"
+
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe":"archipelagoadditions:dragon_hunter_dagger"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

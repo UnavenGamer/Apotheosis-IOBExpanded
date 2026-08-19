@@ -1,0 +1,6 @@
+{
+    "name": "Dragon Wars",
+    "parent":"apotheosis:dragons",
+    "description": "An ancient group of dragons making their way back in to the present day. Dragons in this class have an unbelievably intimidating aura to them.",
+    "icon": "isleofberk:monstrous_nightmare_egg{VariantName:burning_nightmare}"
+}

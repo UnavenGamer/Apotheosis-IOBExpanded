@@ -1,0 +1,30 @@
+{
+    "name": "Blue Oleander",
+    "icon": "archipelagoadditions:blue_oleander_flower",
+    "category": "apotheosis:items/plants",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A blue flower with five petals that is poisonous to dragon. Just the slightest touch can afflict our beautiful beasts with its toxin.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/plants/blue_oleander.png"
+            ],
+            "title": "Flora on Display",
+            "text": "Brilliant Blue Flower"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Blue Oleander grows in Jungles, also obtainable from ships",
+            "title": "Obtaining Information"
+        },
+        {
+            "type": "patchouli:text"
+        }
+
+
+    ]
+}

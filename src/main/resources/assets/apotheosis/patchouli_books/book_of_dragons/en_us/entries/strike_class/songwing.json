@@ -18,21 +18,13 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(l)Taming Food:$()$(br)Raw Cod$(br)Raw Salmon$(br)$(o)Freshwater:$()$(br)Smallmouth Bass$(br)Bluegill$(br)Brown Trout$(br)Carp$(br)Catfish$(br)Gar$(br)Minnow$(br)Muskellunge$(br)Perch$(br)$(o)Arid:$()$(br)Bayad$(br)Boulti$(br)Capitaine$(br)Synodontis",
+            "text": "$(l)Taming Food:$()$(br)Raw Cod$(br)Raw Salmon$(br2)$(l)Breeding Food:$()$(br)Honeycomb$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held, no armour worn, night vision active; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Songwing Scales",
             "title": "Taming Information"
-        },
-        {
-            "type":"patchouli:text",
-            "text":"$(l)Breeding Food:$()$(br)Honeycomb$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held, no armour worn, night vision active; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)1 - 3 Songwing Scales",
-            "title":"Taming Information Cont."
         },
         {
             "type":"patchouli:text",
             "text":"$(l)Health:$() 90 HP$(br)$(l)Armour:$() 2 Def$(br)$(l)Base Attack:$() 4 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()32.1 Blocks/s$(br2)$(l)Immunities:$()$(br)None$(br2)$(l)Death Drops:$()$(br)1 - 3 Dragon Blood$(br)3 - 5 Songwing Scales",
             "title":"Dragon Stats"
-        },
-        {
-            "type": "patchouli:text"
         }
 
 

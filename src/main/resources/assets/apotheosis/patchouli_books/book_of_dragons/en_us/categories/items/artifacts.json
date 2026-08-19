@@ -1,0 +1,6 @@
+{
+    "name": "Artifacts",
+    "description": "Rare items found around Berk",
+    "parent": "apotheosis:items",
+    "icon": "archipelagoadditions:astrids_axe"
+}

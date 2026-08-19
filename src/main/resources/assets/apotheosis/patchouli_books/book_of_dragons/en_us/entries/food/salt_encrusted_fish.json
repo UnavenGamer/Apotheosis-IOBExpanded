@@ -1,0 +1,32 @@
+{
+    "name": "Salt Encrusted Fish",
+    "icon": "archipelagoadditions:salt_encrusted_fish",
+    "category": "apotheosis:items/food",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A whole fish inside of a shell of salt and seaweed. A perfect way to preserve fish for later consumption.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/food/salt_encrusted_fish.png"
+            ],
+            "title": "Food on Display",
+            "text": "Extra salty fish"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Crafted using fish, salt, seaweed and a bowl in a crafting table.",
+            "title": "Obtaining Information"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "archipelagoadditions:salt_encrusted_fish"
+
+        }
+
+
+    ]
+}

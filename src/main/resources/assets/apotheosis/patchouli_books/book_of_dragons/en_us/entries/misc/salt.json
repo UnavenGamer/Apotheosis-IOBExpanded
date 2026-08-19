@@ -1,0 +1,27 @@
+{
+    "name": "Salt",
+    "icon": "archipelagoadditions:salt",
+    "category": "apotheosis:items/misc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A common mineral used to flavour food and get rid of Grimora Toxins.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/misc/salt.png"
+            ],
+            "title": "Item on Display",
+            "text": "Some would say it's salty."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Harvested by mining rock salt found around the world",
+            "title": "Obtaining Information"
+        }
+
+
+    ]
+}

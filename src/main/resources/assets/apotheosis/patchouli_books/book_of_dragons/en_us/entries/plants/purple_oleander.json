@@ -1,0 +1,31 @@
+{
+    "name": "Purple Oleander",
+    "icon": "archipelagoadditions:purple_oleander_flower",
+    "category": "apotheosis:items/plants",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A purple flower with five petals that has some healing properties. When combined with the right ingredients, it can relieve dragons of their dragon root affliction.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/plants/purple_oleander.png"
+            ],
+            "title": "Flora on Display",
+            "text": "Royal Purple Flower"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Purple Oleander grows alongside spruce trees, also obtainable from ships",
+            "title": "Obtaining Information"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "archipelagoadditions:dragon_root_remedy"
+        }
+
+
+    ]
+}

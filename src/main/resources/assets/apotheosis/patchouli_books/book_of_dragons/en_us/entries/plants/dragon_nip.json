@@ -1,0 +1,30 @@
+{
+    "name": "Dragon Nip",
+    "icon": "archipelagoadditions:dragon_nip",
+    "category": "apotheosis:items/plants",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A wild grass that has calming properties for most dragons found around the world. When fed or passed through, dragons receive the Dragon Nip Effect.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/plants/dragon_nip.png"
+            ],
+            "title": "Flora on Display",
+            "text": "Unsuspecting looking grass"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Found growing all around the world in patches.",
+            "title": "Obtaining Information"
+        },
+        {
+            "type": "patchouli:text"
+        }
+
+
+    ]
+}

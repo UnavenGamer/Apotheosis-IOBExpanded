@@ -1,0 +1,30 @@
+{
+    "name": "Refine Dragon Hunter Items",
+    "icon": "archipelagoadditions:thors_dragon_hunter_pickaxe",
+    "category": "apotheosis:items/weapons_tools",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "An assortment of reinforced tools and weapons commonly used by the dragon hunters. Far stronger than their basic counterparts.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/weapons_armour/reinforced_dragon_hunter_items.png"
+            ],
+            "title": "Item on Display",
+            "text": "Reinforced Dragon Hunter Tools and Weapons"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Crafted using Dragon Hunter Items and Thor's Ore in a smithing table",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

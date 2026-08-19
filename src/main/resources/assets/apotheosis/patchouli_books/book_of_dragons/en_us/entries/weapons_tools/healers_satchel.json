@@ -1,0 +1,30 @@
+{
+    "name": "Dragon Healer's Satchel",
+    "icon": "archipelagoadditions:dragon_healers_satchel",
+    "category": "apotheosis:items/weapons_tools",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A satchel containing all the equipment needed to diagnose a dragon. Useful if you suspect something is wrong with your dragon.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/weapons_armour/satchel.png"
+            ],
+            "title": "Item on Display",
+            "text": "A large medical satchel"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Obtained on spawn",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

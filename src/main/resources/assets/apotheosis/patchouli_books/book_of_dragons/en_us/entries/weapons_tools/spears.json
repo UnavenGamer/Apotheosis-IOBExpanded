@@ -1,0 +1,52 @@
+{
+    "name": "Dragon Spine Spears",
+    "icon": "archipelagoadditions:whispering_death_spine_spear",
+    "category": "apotheosis:items/weapons_tools",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Powerful spears crafted from the spines of certain dragons. The stronger the dragon, the stronger the spear.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/weapons_armour/spears.png"
+            ],
+            "title": "Item on Display",
+            "text": "Long and pointy"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Crafted using dragon spines, sticks, and leather in a crafting table.",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe":"archipelagoadditions:nadder_spine_spear_recipe",
+            "recipe2":"archipelagoadditions:galeslash_spine_spear"
+
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe":"archipelagoadditions:whispering_death_spine_spear_recipe",
+            "recipe2":"archipelagoadditions:hushboggle_spine_spear"
+
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe":"archipelagoadditions:razorwhip_spine_spear_recipe",
+            "recipe2":"archipelagoadditions:graveknapper_spine_spear_recipe"
+
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe":"archipelagoadditions:screaming_death_spine_spear_recipe"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

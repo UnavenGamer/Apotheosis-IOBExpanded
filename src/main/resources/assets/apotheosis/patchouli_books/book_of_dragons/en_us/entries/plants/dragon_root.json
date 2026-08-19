@@ -1,0 +1,37 @@
+{
+    "name": "Dragon Root",
+    "icon": "archipelagoadditions:dragon_root",
+    "category": "apotheosis:items/plants",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "An large, inconspicuous looking root that has the ability to drive your dragons to violence. When refined, it passifies dragons, at the cost of them not being rideable.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/plants/dragon_root.png"
+            ],
+            "title": "Flora on Display",
+            "text": "Large Root"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Found growing around the world",
+            "title": "Obtaining Information"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "archipelagoadditions:prepared_dragon_root"
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "archipelagoadditions:refined_dragon_root"
+        },
+        {
+            "type": "patchouli:text"
+        }
+
+    ]
+}

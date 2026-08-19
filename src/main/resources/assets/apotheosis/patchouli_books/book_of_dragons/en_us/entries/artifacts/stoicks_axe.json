@@ -1,0 +1,30 @@
+{
+    "name": "Stoick's Axe",
+    "icon": "archipelagoadditions:stoicks_axe",
+    "category": "apotheosis:items/artifacts",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A large battleaxe wielded by Stoick the Vast, lost to the sea and dredged up by Dragon Hunters",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/artifacts/Stoicks_Axe.png"
+            ],
+            "title": "Artifact on Display",
+            "text": "Stoick the Vast's First Battleaxe"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Can be obtained from Dragon Hunter Flagships",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

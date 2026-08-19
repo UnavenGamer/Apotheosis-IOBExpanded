@@ -1,0 +1,31 @@
+{
+    "name": "Blood Marinated Feed",
+    "icon": "archipelagoadditions:dragon_blood_marinated_feed",
+    "category": "apotheosis:items/food",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Soaked with dragons' blood and packed with meat, fish and useful nutrients, it makes feeding certain larger and aggressive dragons quicker and far more convenient. $(br2)Edible and very nutritional, but not recommended for human consumption, nor ethical.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/food/blood_feed_bundle.png"
+            ],
+            "title": "Food on Display",
+            "text": "Bloody mess of meat and fish"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Crafted using dragon blood, meat and fish in a crafting table",
+            "title": "Obtaining Information"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "archipelagoadditions:dragon_blood_marinated_feed_recipe"
+        }
+
+
+    ]
+}

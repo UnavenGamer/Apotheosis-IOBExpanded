@@ -1,0 +1,21 @@
+{
+    "name": "Bonded",
+    "icon": "archipelagoadditions:dragon_brush",
+    "category": "apotheosis:effects",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Bonded is a status effect that increases certain attributes of a Dragon for the duration of the effect (typically 10 minutes)",
+            "title": "Basic Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"When a Dragon is bestowed with the Bonded effect their Health increases by 10, armour increases by 2, and damage increases by 2.",
+            "title":"Effect Information"
+        }
+
+
+
+
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Dragon Brush",
+    "icon": "archipelagoadditions:dragon_brush",
+    "category": "apotheosis:items/weapons_tools",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Used to groom and bond with your dragon. $(br2)Also a great way to gather various dragon drops without harming your dragons.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/weapons_armour/dragon_brush.png"
+            ],
+            "title": "Item on Display",
+            "text": "Soft, yet firm bristles"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Crafted using a wood plank and hay bale",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe":"archipelagoadditions:dragon_brush"
+        }
+
+
+    ]
+}

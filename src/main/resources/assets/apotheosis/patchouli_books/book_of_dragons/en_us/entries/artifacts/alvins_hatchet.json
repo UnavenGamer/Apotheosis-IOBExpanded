@@ -1,0 +1,30 @@
+{
+    "name": "Alvin's Hatchet",
+    "icon": "archipelagoadditions:alvins_hatchet",
+    "category": "apotheosis:items/artifacts",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Once wielded by Alvin the Treacherous, the Chief of the Outcast Tribe, now lost to the Dragon Hunters",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/artifacts/Alvins_Axe.png"
+            ],
+            "title": "Artifact on Display",
+            "text": "Hatchet made for Alvin the Treacherous"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Can be obtained from Dragon Hunter Flagships",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

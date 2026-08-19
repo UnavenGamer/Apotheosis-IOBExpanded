@@ -1,0 +1,32 @@
+{
+    "name": "Tooth Keys",
+    "icon": "archipelagoadditions:dragon_proof_key",
+    "category": "apotheosis:items/weapons_tools",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A stronger alternative to Snow Wraith Teeth. Also used to crack open dragon proof egg crates.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/weapons_armour/tooth_keys.png"
+            ],
+            "title": "Item on Display",
+            "text": "Sharp and Strong"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Crafted using Filled Dragon Proof Key Mould or Gronckle Iron and a Snow Wraith tooth in a crafting table.",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe":"archipelagoadditions:dragon_proof_key",
+            "recipe2":"archipelagoadditions:gronckle_iron_snow_wraith_tooth"
+        }
+
+
+    ]
+}

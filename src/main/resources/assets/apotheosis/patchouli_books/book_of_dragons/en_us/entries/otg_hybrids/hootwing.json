@@ -1,0 +1,34 @@
+{
+    "name": "Hootwing",
+    "icon": "isleofberk:monstrous_nightmare_egg{VariantName:hootwing}",
+    "category": "apotheosis:dragons/otg_hybrids",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Hootwings are ancient pescatarian creatures, famed for their aggression and ferocity.$(l)$(br2)Biomes:$()$(br)Desert$(br)Sparse Jungle$(br2)$(l)Size$()$(br)Length: 16 Blocks $(br)Wingspan: 20 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/mystery/hootwing.png"
+            ],
+            "title": "Hootwing",
+            "text": "Owl-like appearance, large paws, feathery"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Foods:$() $(br)Raw Cod$(br)Raw Salmon$(br2)$(l)Breeding Foods:$()Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held, no armour worn, fire resistance active; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)2 - 3 Monstrous Nightmare Scales$(br)1 - 2 Monstrous Nightmare Oil",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() 140 HP$(br)$(l)Armour:$() 2 Def$(br)$(l)Base Attack:$() 7 HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()26.8 Blocks/s$(br2)$(l)Immunities:$()$(br)Dragon Root$(br)Refined Dragon Root $(br2)$(l)Death Drops:$()$(br)1 - 3 Dragon Blood$(br)4 - 7 Monstrous Nightmare Scales$(br)1 - 3 Monstrous Nightmare Oil",
+            "title":"Dragon Stats"
+        }
+
+
+
+
+    ]
+}

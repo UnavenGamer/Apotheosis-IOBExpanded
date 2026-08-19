@@ -1,0 +1,6 @@
+{
+    "name": "Miscellaneous",
+    "description": "Useful items that are found around the world and used for various tasks",
+    "parent": "apotheosis:items",
+    "icon": ":raw_gronckle_iron"
+}

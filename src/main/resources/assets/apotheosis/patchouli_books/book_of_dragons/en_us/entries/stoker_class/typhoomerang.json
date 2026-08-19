@@ -1,0 +1,32 @@
+{
+    "name": "Typhoomerang",
+    "icon": "isleofberk:monstrous_nightmare_egg{VariantName:limephoomerang}",
+    "category": "apotheosis:dragons/stoker_class",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A forest-dwelling dragon of immense size, with their large horns, massive wingspan, and their ability to disrupt vertical air pressure while exhaling flames to create fire tornadoes.$(l)$(br2)Biomes:$()$(br)Old Growth Pine Taiga$(br)Old Growth Birch Forest$(br)Old Growth Spruce Taiga$(br2)$(l)Size$()$(br)Length: 28 Blocks $(br)Wingspan: 38 Blocks",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/dragons_img/stoker/limephoomerang.png"
+            ],
+            "title": "Timberjack",
+            "text": "Huge wings, long razor-sharp talons, long and smooth horns"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Taming Foods:$()$(br)Eels$(br2)$(l)Breeding Foods:$()$(br)Suspicious Stew$(br)Sagefruit$(br2)$(l)Taming Requirements:$()$(br)No tools or weapons held, no armour worn, fire resistance active; alternatively, feed Dragon Nip$(br2)$(l)Brush Drops:$()$(br)2 - 3 Typhoomerang Scales",
+            "title": "Taming Information"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(l)Health:$() ? HP$(br)$(l)Armour:$() ? Def$(br)$(l)Base Attack:$() ? HP$(br)$(l)Walking Speed:$() 6.4 Blocks/s$(br)$(l)Flying Speed: $()26.8 Blocks/s$(br2)$(l)Immunities:$()$(br)Eel Fear$(br2)$(l)Death Drops:$()$(br)2 - 4 Dragon Blood$(br)4 - 7 Typhoomerang Scales",
+            "title":"Dragon Stats"
+        }
+
+
+    ]
+}

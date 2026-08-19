@@ -1,0 +1,30 @@
+{
+    "name": "Firecomb",
+    "icon": "archipelagoadditions:firecomb",
+    "category": "apotheosis:items/drops",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Raw and condensed Firecomb Gel, straight from a Fireworm Queen",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/drops/firecomb.png"
+            ],
+            "title": "Drop on Display",
+            "text": "Sweet and flammable"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Obtained by slaying Fireworm Queens.",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:text"
+        }
+
+
+    ]
+}

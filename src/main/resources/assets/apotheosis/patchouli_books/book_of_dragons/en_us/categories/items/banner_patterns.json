@@ -1,0 +1,6 @@
+{
+    "name": "Banner Patterns",
+    "description": "Patterns used for decorating your banners",
+    "parent": "apotheosis:items",
+    "icon": "minecraft:creeper_banner_pattern"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Yaknog",
+    "icon": "archipelagoadditions:dragon_hunter_helmet",
+    "category": "apotheosis:items/food",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Dangerously tantalizing drink with a horribly thick, yellowish texture made using crude yak milk. $(br2)Dragons seem to enjoy this.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/food/yaknog.png"
+            ],
+            "title": "Food on Display",
+            "text": "Thick and crude Yaknog"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Dropped by a War Yak or craftable using milk, eggs, cabbage and kelp",
+            "title": "Obtaining Information"
+        },
+        {
+            "type": "patchouli:text"
+
+        }
+
+
+    ]
+}

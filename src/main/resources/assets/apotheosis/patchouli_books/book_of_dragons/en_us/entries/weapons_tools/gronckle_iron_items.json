@@ -1,0 +1,49 @@
+{
+    "name": "Gronckle Iron Items",
+    "icon": "isleofberk:gronckle_iron_pickaxe",
+    "category": "apotheosis:items/weapons_tools",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Stronger than your average tools and weapons, these Grockle Iron items will keep you going.",
+            "title": "Basic Information"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "apotheosis:patchouli_books/book_of_dragons/items_img/weapons_armour/gronckle_iron_items.png"
+            ],
+            "title": "Item on Display",
+            "text": "Basic Gronckle Iron Tools and Weapons"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Crafted using Gronckle Iron and Sticks in a crafting table.",
+            "title": "Obtaining Information"
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe":"isleofberk:gronckle_iron_sword",
+            "recipe2":"isleofberk:gronckle_iron_pickaxe"
+
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe":"isleofberk:gronckle_iron_axe",
+            "recipe2":"isleofberk:gronckle_iron_doubleaxe"
+
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe":"isleofberk:gronckle_iron_mace",
+            "recipe2":"isleofberk:gronckle_iron_hammer"
+
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe":"isleofberk:gronckle_iron_dagger"
+        }
+
+
+    ]
+}
